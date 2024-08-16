@@ -1,0 +1,103 @@
+Here are the answers to the questions in a simple and understandable manner:
+
+1. Can the main Method be overridden?  
+   No, the `main` method cannot be overridden. It is a static method, and static methods belong to the class rather than an instance     of the class. Overriding occurs when a subclass provides a specific implementation of a method that is already defined in its parent class, which is not possible with static methods.
+
+2. What is Structured Programming?  
+   Structured programming is a programming paradigm that emphasizes breaking down a program's logic into smaller, manageable modules or functions. It avoids the use of "goto" statements and encourages the use of control structures like loops, conditionals, and subroutines to create clear and understandable code.
+
+3. What is another paradigm apart from OOPs concept?  
+   Apart from Object-Oriented Programming (OOP), another programming paradigm is Functional Programming. This paradigm treats computation as the evaluation of mathematical functions and avoids changing state and mutable data.
+
+4. What are the limitations of Inheritance?  
+   Inheritance can lead to a tight coupling between parent and child classes, making the code less flexible and harder to maintain. It can also introduce the problem of the diamond inheritance issue in multiple inheritances, leading to ambiguity.
+
+5. What are access modifiers and their significance?  
+   Access modifiers in Java (public, private, protected, and default) determine the visibility and accessibility of classes, methods, and variables. They control how different parts of the program can interact with each other, ensuring encapsulation and security.
+
+6. Can the default access modifier be called in another package?  
+   No, members with the default access modifier are not accessible outside the package in which they are declared. They are only accessible within the same package.
+
+7. Difference between Default and Protected?  
+   The default access modifier allows access only within the same package. The protected access modifier allows access within the same package and also in subclasses (even if they are in different packages).
+
+8. Difference between Public and Private?  
+   The `public` access modifier allows the member to be accessible from any other class. The `private` access modifier restricts the member's access to only within its own class.
+
+9. Define Super and Sub classes?  
+   A superclass (or parent class) is a class that is inherited by another class. A subclass (or child class) is a class that inherits from a superclass, gaining its properties and behaviors while being able to add or override features.
+
+10. What do you mean by static modifier?  
+    The `static` modifier in Java is used to indicate that a particular member (variable, method, or block) belongs to the class rather than instances of the class. Static members can be accessed without creating an instance of the class.
+
+11. What do you mean by Dynamic modifier?  
+    There is no `dynamic` modifier in Java. However, the concept of dynamic behavior in Java is often related to runtime polymorphism, where method calls are resolved at runtime rather than compile-time.
+
+12. Difference between method overloading and overriding?  
+    Method overloading allows multiple methods with the same name but different parameters within the same class. Method overriding allows a subclass to provide a specific implementation for a method already defined in its superclass.
+
+13. How are Abstract classes different from Inheritance?  
+    Abstract classes cannot be instantiated and are used to define a template for other classes. Inheritance allows a class to inherit properties and methods from another class. Abstract classes are a tool within the inheritance framework to provide a base for subclasses.
+
+14. What do you mean by garbage collector?  
+    The garbage collector in Java automatically deallocates memory by destroying objects that are no longer in use, thus preventing memory leaks and optimizing the use of resources.
+
+15. Is it possible to run a Java application without implementing OOPs concept?  
+    Yes, it is possible to run a Java application without using Object-Oriented Programming concepts. However, Java is designed to support OOPs, and not using it can lead to less organized and maintainable code.
+
+16. What is compile-time polymorphism, and how does it differ from run-time polymorphism?  
+    Compile-time polymorphism (method overloading) is resolved during compilation, while run-time polymorphism (method overriding) is resolved at runtime. Compile-time polymorphism occurs within the same class, while runtime polymorphism occurs between classes in an inheritance hierarchy.
+
+17. What is hybrid inheritance, and how to achieve it, and what are the possible ways?  
+    Hybrid inheritance is a combination of multiple types of inheritance (e.g., single and multiple inheritances). Java does not support multiple inheritance directly due to the diamond problem but achieves hybrid inheritance through interfaces.
+
+18. How to access different methods of various classes in a Java program?  
+    You can access methods of different classes by creating instances of those classes, using inheritance, or through interfaces. Static methods can be accessed directly by the class name without creating an instance.
+
+19. Why is the public access modifier needed in implementing the methods of an interface?  
+    The `public` access modifier is needed because all methods in an interface are implicitly public, and any implementing class must provide an equally or more accessible implementation, which means they must be public.
+
+20. In print stream (System.out.println) "println" belongs to which class method?  
+    The `println` method belongs to the `PrintStream` class, which is part of the `java.io` package. `System.out` is an instance of `PrintStream`.
+
+21. Is it necessary to create an object for the Java class?  
+    No, it is not always necessary to create an object for a class. Static methods and variables can be accessed without creating an instance. However, to use instance methods and variables, an object must be created.
+
+22. What is a constructor in Java?  
+    A constructor is a special method in Java that is used to initialize objects. It is called when an object is created and has the same name as the class. Constructors do not have a return type.
+
+23. What is a Destructor?  
+    Java does not have destructors like C++. Instead, Java relies on garbage collection to handle memory management and automatically delete objects that are no longer in use.
+
+24. Difference between procedure-oriented programming and object-oriented programming?  
+    Procedure-oriented programming focuses on functions and the sequence of actions to be performed. Object-oriented programming (OOP) organizes code around objects and data rather than actions, promoting reusability and modularity.
+
+25. Is it possible to access a Java class without creating an instance of that class?  
+    Yes, you can access a class without creating an instance by using static methods and variables. The `static` keyword allows access to class-level members without the need for an object.
+
+26. What are the limitations of OOPs?  
+    OOP can lead to more complex and larger codebases, making the software harder to manage. It also requires more processing time and resources, and not all problems can be effectively modeled using objects.
+
+27. Difference between Java class and structure?  
+    Java does not have structures like C/C++. A class in Java can have methods, variables, and constructors, and it supports access modifiers. Structures in languages like C are typically used to hold data and do not support methods or access modifiers.
+
+28. Is it possible to create an instance for an interface and abstract classes?  
+    No, you cannot create an instance of an interface or an abstract class. However, you can instantiate a concrete subclass that implements the interface or extends the abstract class.
+
+29. What is the super keyword in Java and its functionalities?  
+    The `super` keyword in Java refers to the immediate parent class. It is used to access parent class methods and constructors, and to differentiate between parent and child class methods or variables.
+
+30. Define Getters and Setters?  
+    Getters and Setters are methods used to access and modify private fields of a class. A getter returns the value of a field, while a setter sets or updates the value of a field, ensuring encapsulation.
+
+31. What is cohesion?  
+    Cohesion refers to how closely related and focused the responsibilities of a single module or class are. High cohesion means that a class or module performs a single task or closely related tasks, making the code easier to maintain.
+
+32. What is a virtual function?  
+    Java does not have explicit virtual functions like C++. However, all non-static methods in Java are considered "virtual" by default, meaning they can be overridden in a subclass to provide specific behavior.
+
+33. Is coupling useful in OOPs?  
+    Coupling refers to the degree of dependency between classes or modules. In OOP, low coupling is desirable because it makes the system more modular, flexible, and easier to maintain. High coupling can lead to a brittle codebase.
+
+34. Is there any operator available in Java that a developer can't override?  
+    Yes, in Java, operators cannot be overridden. Unlike in C++, Java does not support operator overloading, meaning the behavior of operators like `+`, `-`, `*`, and `/` cannot be customized for user-defined types.
