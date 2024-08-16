@@ -1,0 +1,52 @@
+Basic Java questions, will be more useful at the time of interview 
+--------------------------------------------------------------------
+1.Can main Method be overridden ?
+2.What is Structured Program ?
+3.What is another paradigm apart oops concept ?
+4.What are limitations of Inheritance ?
+5.What are access modifiers and significance ? 
+6.Can default access modifier can be called in another package ?
+7.Difference between Default and Protected ?
+8.Difference between public and private ?
+9.Define Super and Sub classes ?
+10.What do you mean by static modifier ?
+11.What do you mean by Dynamic modifier ?
+12.Difference between method overloading and overriding ?
+13.How Abstract classes are different from Inheritance ?
+14.what do you mean by garbage collector ?
+15.Is it possible to run java application without implementing  oops concept ?
+16.What is compile time polymorphism and how it is differ from run time polymorphism ?
+17.What is hybrid inheritance and how to achieve it and what are possible ways ?
+18.How access different methods of various classes in a java program ?
+19.Why public access modifier is needed in implementing the methods of interface ?
+20.In print stream (System.out.println) "println"  belongs to which class method ?
+21.Is it necessary to create object for the java class ?
+22.What is constructor in java ?
+23.What is Destructor ?
+24.Diffrence between procedure oriented programming and object oriented programming ?
+25.Is it possible to access a java class without creating instance to that class ?
+26.What are the limitations of oops ?
+27.Difference between java class and structure ?
+28.Is it possible to create instance for interface and abstract classes ?
+29.What is super keyword in java and functionalities ?
+30.Define Getters and Setters ?
+31.What is cohesion ?
+32.What is virtual function ?
+33.Is coupling useful in oops ?
+34.Is there any operator available in java that developer can't override ?
+
+-------------------------------------------------------------------------------------------
+|Caution: Don't overwrite this file if any changes needed then pull to your own branch and| |push it in your branch and notify the admin (Naveen sir)		                  |
+-------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
