@@ -35,9 +35,10 @@ Basic Java questions, will be more useful at the time of interview
 33.Is coupling useful in oops ?
 34.Is there any operator available in java that developer can't override ?
 
--------------------------------------------------------------------------------------------
-|Caution: Don't overwrite this file if any changes needed then pull to your own branch and| |push it in your branch and notify the admin (Naveen sir)		                  |
--------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+| Caution: Don't overwrite this file if any changes needed then pull to your own branch and push it in your branch and |
+| notify the admin (Naveen sir)		                                                                                     |
+------------------------------------------------------------------------------------------------------------------------
 
 
 
