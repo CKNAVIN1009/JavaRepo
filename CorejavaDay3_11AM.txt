@@ -5456,45 +5456,6 @@ public static void main(String[] args) {
 }
 }
 	
-==================================================
-MAP:
-----
-HashMap:
-HashMap is one of the implemented class of Map interface. We can get this from java.util pacakge
-
-It came in jdk 1.2 version.
-
-IT is underlined with datastrucure with hashtable.
-
-Properties:
-----------
-1.  HashMap stores the values in the key-value pair.
-key   value
-101--->Deepak---->Entry
-102--->Rahul----->Entry
-103-->Deepak
-
-2. In hashmap, keys should be always unique but values can be duplicate.
-
-3.  HashMap contains maximum of one null values in key, but it can store multiple null values in the values.
-
-4.  It can store heterogeneous element.
-
-5.  HashMap does not follow the sorting and insertion order.
-
-6.  It is non-synchronized in nature.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
