@@ -1,0 +1,6830 @@
+Good mrg
+
+July 3, 2024:
+---------------
+1. java module
+2. UI module
+3. Database module
+4. cloud module.
+5. DevSecOps tools
+---------------------------------------------------------
+
+Day 1:
+------
+IT Techies:
+-----------
+
+1.  Developer.
+example:
+number: 6 is odd or even
+Logic: We need to divide the number with 2, and if it leave
+any remainder, then it is odd number.  If not, its even number
+
+He/she has to write code to convert this logic into the coding format.
+
+2.  QA/Testing:
+----------------
+Quality analyst:  They will test the quality of the product.
+
+example:
+Facebook
+Correct username
+Incorrect pwd:
+Loginbutton:
+
+3.  Devops:
+-----------
+example:
+Naveen is working for one invention that as below:
+He is trying to run the bike with Distilled water. water Bike.
+
+They will make the code deployed in the production.
+
+4. BA(Business Analyst)
+------------------------
+scenario:
+
+NaveenBank------>approachn any IT companies like Wipro, Cognizant
+Wellfargo, NareshIT etc
+
+1 year of time to develop the product naveenbank.com
+
+NareshIT----->BA---->approach NaveenBank--->Tell me boss what is the
+requirement.
+-->CC
+--->Homeloan
+-->Mortgage
+etc
+
+He/she has to get the requirement from the customer.
+He is not very technical guy, but he/she should be good in 
+communication
+
+
+5.  Scrum master:
+----------------
+He/she makes us to work.  They will have direct contacts with 
+client. He can be from below:
+a.  technical lead.
+b.  Quality lead.
+c.  devops lead etc
+
+6.  PO/PM:
+----------
+Product owner/Project manager:  He/she who will be the owner of the
+project.
+
+7.  Support/Customer support:
+-----------------------------
+example:
+U have purchased washing machine from flipkart
+
+you have to talk to the support of flipkart not the seller.
+
+flipkart---->seller------>provide service.
+
+----------------------------------------------------
+
+SDLC(Software Development Life cycle)
+Example:
+Human Being like me and you.
+
+Human life cycle/span
+-->Birth
+-->Kid
+--->Kindergarden
+-->Primary school
+-->Secondary school
+-->senior school
+--->High schoool
+-->college/Univesity
+--->NareshIT
+-->Job
+-->Married
+--->Kids
+-->Grandkids
+--->Depart
+
+lets take an example:  Facebook
+
+SDLC
+1.  Life phases
+2.  Life model
+
+SDLC phases:
+-----------
+Seven different phases:
+1.  Requirement gathering/capturing.
+2.  Analysis.
+3.  Designing.
+4.  Coding.
+5.  Testing.
+6.  Depoloyment.
+7.  Support.
+
+
+1.  Requirement gathering/Capturing.
+------------------------------------
+I have owned a land/plot in KPHB of 1000 SFT
+
+Naveen ---->Any builder
+ABC builder------>BA
+
+His requirement---> 3 bhk flat 2 units in each floor and 
+5 storey building.
+
+Friendsbook:
+BA of nareshit--->take the requirement from friendsbook
+
+2. 987Analysis:
+-------------
+With the requirement, you need to make sure that development
+is possible or not, or need more information.
+
+3.  Designing:
+--------------
+It will give a blueprint of the website, architecture of the website.
+Software architect.
+
+4.  Coding:
+=-----------
+We will change the logic into the coing fomat.
+
+5.  Testing:
+------------
+They will test the appplication whether it is working as
+expected or not.
+
+
+
+
+6.  Deployment:
+--------------
+Deployment means making the application ready for use to the 
+public. e.g. Facebook:
+10000 LOC Java
+Devops----->Deploy this 10000 LOC into the facebook app
+www.facebook.com
+
+7.  Support:
+------------
+Tommorrow something went in login functionality.
+FB cc---->NareshIT CC--->Developer--->fix the issue
+Devops--->deploy---->testing-->client
+
+------------------------------------------------
+SDLC Model:
+-----------
+1.  Waterfall model:  0.5%
+2.  Spiral model.
+3.  Iterative and incremental model.
+4.  Rapid application development.
+5.  Prototype model.
+6.  Agile model:  99%
+
+
+
+WATERFALL MODEL:
+----------------
+RG/C
+Analysis
+DEsgining
+Coding
+Testing
+Deployment
+Support
+
+Agile:
+------
+Quick movement 
+
+Facebook:
+Homepage
+Login
+---usname
+---pwd
+---login button
+---restet button
+---forget pwd
+---forget username
+---register/signup
+Logout
+messenger
+marketplace
+newsfeed
+profile
+setting
+Reels
+etc
+
+
+Nareshit----->2 years
+
+SOW(Statement of work)--->work order
+
+sprint:  Time frame.
+2 weeks to 8 weeks:
+Max will follow 2 weeks.
+2 sprint*24===48 sprints
+
+sprint 1:
+July 1--->July 12
+
+sprint 2:
+July 15--->July 26
+
+SPRINT PLANNING:
+----------------
+The very first day of the sprint, we will have one meeting conducted to discuss on the below points:
+1.  Capacity planning.
+2.  How many stories we will pick for sprint 1.
+
+Attendees:
+----------
+developer
+QA
+devops
+BA
+PO
+SM
+
+User Stories:
+-------------
+Fancy word of requirement
+
+Epics:
+------
+It is collection of similar types of requirement.
+
+OR,
+
+Epic is a big requirement, which will be divided to smaller
+requirement.
+
+Backlogs:
+---------
+It is virtual bucket where we will all the pending task that need to be picked in the future and complete those.
+
+Scrum meeting/standup meeting/DSM:
+------------------------------------
+It is a daily meeting which we will conduct to discuss on below:
+1. What we have done yesterday.
+2.  what we are doing today.
+3. Any blocker
+
+
+
+yes, i completed the task.
+yes
+yeah
+yep
+ye??
+
+Requirement:  User stories
+
+Story points:
+-------------
+This is the factor which will decide how complex the user stories are.
+Fibonacci  series
+
+1, 2, 3, 5, 8, 13 .........
+
+
+Retrospective meeting:
+----------------------
+This is the meeting that we will do at the end of the sprint to discuss on 
+below:
+-->what went good.
+-->what went bad.
+-->any suggestion that need to do in next sprint.
+
+Bug/defect/issues:
+------------------
+facebook login:
+UN:  correct
+PWD:  correct
+Loginbutton
+
+Spill over:
+----------
+Incomplete task will be carried over to the next sprint is called as Spill over.
+
+Burn Down chart:
+-----------------
+Naveen---->5 hours*5=25 hours.
+This is the diagram which represents pending work/hours versus the days left.
+
+Burn up chart:
+This is the diagram which represents completed task versus the days completed.
+
+
+-------------------------------------------------------------
+Web application architecture:
+-----------------------------
+Language:
+Language will provide the programming components/alphabets/rules to develop any application
+example:
+
+Java--->Corejava
+Literals,
+variables, 
+constants,
+data types.
+
+
+Technology:
+------------
+system.out.println("Hello");
+It is the process to transfer the knowledge from language to real time web application.
+
+like:  Adj java.
+
+
+Framework:
+----------
+This is the structure on which any application would be developed.
+
+example:  Springboot
+
+======================================
+
+Java fundamental:
+-----------------
+Variables:
+its values will change
+
+Variable--->Data type
+
+
+salary=30000
+
+
+two types:
+1.  Premitive data type:
+2.  Non-premitive datatype
+
+Premitive data types:
+1.  char: 'a', 'b', 'z'
+2.  Boolean:  0, 1
+3.  byte, int, short, long, double, float
+
+example:
+int a;
+int b=30;
+int c=a+b;
+//int c=80;
+system.out.println(c);
+
+------------------------------------
+Hello world
+
+Low level language:
+--------------------
+It is the language that your system understands
+
+Difference between lll vs hll:
+------------------------------
+1.  High level language is less memory efficient
+whereas,
+Low level language is high memory efficient.
+
+2. High level language is easy to understand for human beign.
+whereas,
+Low level language is difficult to understand.
+
+3.  Debugging is very easy in high level language.
+whereas,
+Debugging is difficult in low level language.
+
+4.  It is easy to maintain the HLL.
+whereas,
+it would be tough to maintain the LOw level language
+example:  C, C++, java etc for HLL
+Cobol that need to be converted in the binary.
+
+
+==========================================================
+Difference between procedure oriented programming and object oriented programming:
+----------------------
+1.  Procedure oriented programming is divided into the smaller parts that is functions.
+whereas,
+Object oriented programming is divided into smaller parts, that is objects.
+
+2.  Procedure oriented programming language follow TOP to Bottom
+approach.
+whereas,
+Object oriented programming languages follow BOTTOM to TOP approach.
+
+3. There is nothing concept of access modifier in the procedure oriented language
+where, 
+OOPs, it has access modifier like private, public, protected, default etc.
+
+4.  Adding new data/keys is bit difficult in the Procedure oriented programming language,
+Whereas,
+It is easy add to more data/keys to the OOPs.
+
+5. In the POPLs, functions is more important than the data,
+whereas,
+OOPs, data is more important than the functions.
+
+6. In the procedure oriented programming, data hiding and inheritance concepts are not included.
+whereas,
+OOPs, data hiding and inheritance are the key concept.
+
+
+example
+ATM machine, u have inserted your card, you are tryihg to retrieve the information, what is total cash this ATM has.
+
+My father has 2 flats in Hyderabad.
+
+7. Procedure oriented programming language does not support overloading and overriding as well,
+whereas, 
+Object oriented programming language supports overloading and overriding.
+
+void sum(int x, int y)
+void sum(int a, int b)
+
+8. procedure oriented programming language is not secured enough.
+whereas,
+Object oriented programming language is secured.
+
+9. Procedure oriented programming is not an example of real world scenario, 
+whereas,
+OOPs has realworld scenario example.
+
+============================================
+Data types:
+1.  Premitive data types:  It is the data which are already defined in the java library.  It has no additional methods.  It has already specified data range.
+
+examples:
+byte.
+short
+int
+long
+float
+double
+Boolean
+char
+
+if(int and float):  4
+dl(double and long):  8
+
+2.  User defined data types or non premitive data types:
+It is the data type that user will create or define for thieeir sake of usage.
+like String, array.
+
+BYTE:
+-----
+Size:  1 byte.
+Range:  Stores the whole number from -128 to 127.
+example:
+byte b=28;
+default value:  0
+
+SHORT:
+------
+Size:  2 bytes.
+Range:  Stores whole numbers from -32,768 to 32,767.
+short n=300;
+default value:  0.
+
+example:
+byte/short d=125;
+
+
+class syntax:
+class <classname>
+{
+
+}
+
+=====================
+INT:
+-----
+It is integer data type.  It is frequently used since "in java programming you cant expect the number beyond that"
+
+size=4 bytes.
+range=-2,147,483,648 to +2,147,483,647
+default value=0;
+
+LONG:
+-----
+This data type can store whole number,
+range from -9223372036854775808 to +9223372036854775807.
+This is basically when int is not large enough to store the value and it has to end with L.
+size:  8 bytes.
+
+example:
+long d=46657667676765765L;
+
+FLOAT:
+------
+SIZE: 4 bytes
+IT is used to store any fractional number for storing 6 to 7 decimal digit.
+
+float=24.87f;
+
+
+size shortcut
+
+IF(int and float)-->4 bytes
+
+DOUBLE:
+-------
+It is used to store any fractional number for storing upto 15 decimal digit
+
+size:  8 byes
+range:  345.556676676676
+example:
+
+d=345.45d
+
+Boolean data type:
+------------------
+size=1 bit.
+VAlue=true or false
+example:
+true and false
+yes or no
+correct or incorrect
+On or off
+example:
+
+boolean isclassunderstandable=true;
+Boolean isassignmentcompleted=false;
+
+
+
+Assignment:
+How bits=1 byte.
+
+--------------
+CHARACTER:
+----------
+It is a datatype which is used to represent alphabets like A or a
+lastname='N'
+size:  2 bytes
+Otherway is if you know ASCII key value, you can use those with char.
+
+Character will be always surrounded by ''(single quote)
+example
+grade=A;
+char grade='A';
+mycharvalue1=65;
+mycharvalue2=66;
+mycharvalue3=78;
+
+
+
+ A   B   C  D E
+65   66
+
+
+===========================
+Non premitive data type/User defined data types
+
+It is the data type which user has created for their sake of use.
+
+STRING:
+-------
+It is used to store a sequence of character like text or some value.  It must be surrounded by ""(double quote).
+
+example:
+s="I"
+
+Assignment for the day:
+1.  Write a java program for getting practice on double, Boolean, and character.
+2.  Write a java program to print below:
+a
+z
+p
+Q
+
+==============================================================
+
+Type casting:
+We will change the data type, may be from lower to higher or higher to lower.
+
+1.  Widening type casting(automatically)
+---------------------------
+If we are converting a smaller data type to a large data type size.
+
+Example
+byte---->(short---->char)--->(int--->float)---->long--->double
+
+public class Hello
+{
+   public static void main(String args[])
+   {
+     int dataint=10;
+     double datadouble=dataint;
+   }
+}
+
+
+2.  Narrowing type casting(manually):
+-------------------------------------
+Converting the larger data types to a smaller size data type
+
+double---->float--->long--->int---->char--->short----->byte
+
+example:
+
+double datadouble1=15.84d;
+int dataint1=(int)datadouble1;
+
+========================================
+Java Operators:
+---------------
+Java operators are used to perform some action/operations on variables or values.
+
+15  20 numbers
+a   b  variables
+example:
+int x=a+b;
+int x=10+15;
+
+Types of operators:
+--------------------
+1.  Arithmetic operators.
+2.  Assignment operators.
+3.  Bitwise operators.
+4.  Comparison operators.
+5.  Logical operator.
+
+1.  Arithmetic operators:
+------------------------
+Examples:
+
+Operators   Meaning           Example
+--------------------------------------
++       -->Addition          -->a+b
+-       -->Subtraction       -->a-b
+*       -->Multiplication    -->a*b
+/       -->Division          -->a/b
+%       -->Modulus           -->a%b(remainder)
+++      -->increment         -->++a(increasing value of 'a' by 1).
+--      -->Decrement         -->--a(decreasing value of 'a' by 1)
+
+Assignment for the day:
+1  You need to write a program for converting value from double to int.
+2. Write a program for converting value from int to double.
+3. Write a detailed for arithmetic Operators.
+
+=======================================================
+2. Assignment Operator:
+----------------------
+It is used to assign some value to variables.
+LHS=RHS
+x=100;
+y=x+20;
+
+example:
+package Operators;
+
+public class AssignmentOperator
+{
+   public static void main(String[] args)
+   {
+	  int x=100;
+	  int y=200;
+	  int z=x+y+200;
+	  System.out.println("The value of z= "+z);
+	  
+   }
+}
+
+
+3.  Bitwise operator:
+&& ---> and 
+|| --->or
+
+x=10;
+y=20;
+if((x>y)&&(x>y))
+false      false --------True
+and,
+if((x>y
+if((x>y)&&(x<y))-->
+statement1  and statement 2---->both true then only true
+either the statement is false---->false
+
+
+Statement1      Statement2       O/p:
+--------------------------------------
+True               True          True
+False              False         True
+True               False         False
+False              True          False
+
+OR Operator:
+------------
+Statement1      Statement2       O/p:
+--------------------------------------
+True               True          True
+False              False         False
+True               False         True
+False              True          True
+
+Assignment:
+Write a small code to apply and/or operator
+
+x=100;
+y=200
+if((x>y)&&(x<y)
+{
+}
+
+4.  Comparison operator:
+------------------------
+It will compare the values of variable
+x==y
+example:
+if(you are passing placement exam)
+{
+sop(you got a job)
+}
+else
+{
+sop(you dnt get the job)
+}
+example:
+x=20;
+y=30;
+if(x==y)
+{
+sop(both are same values)
+}
+else
+sop(both are different values)
+
+Logical operator:
+------------------
+<, >, <=, >=, != ,etc.
+AND, OR etc.
+example:
+int x=200;
+int y=500;
+if(x<=y)
+
+==================================================
+string concatenation:
+----------------------
+"+" for string concatenation.
+if + is used between variables, then it will work as Arithmetic operation
+If + is used between string, then it will work as String operation
+
+example:
+package Operators;
+
+public class Stringcontcat
+{
+  public static void main(String[] args)
+  {
+	int x=100;
+	int y=200;
+	int z=x+y;
+	System.out.println(z);
+	String p="100";
+	String q="200";
+	String r=p+q;
+	System.out.println(r);
+  }
+}
+
+
+javatraininghyd1@gmail.com
+FSJ 11am July 2024@Naveen
+
+=====================================
+Java control statement:
+-----------------------
+Java compiler execute the code from top to bottom.
+But you have an option to change the flow of execution with the control statement.
+
+We have three types of Java control statement.
+1.  Decision making statement.
+a.  If statement
+b.  Switch statement
+2.  Loop statement.
+a.  for loop.
+b.  while loop.
+c.  Do while loop.
+d.  for each loop
+3.  Jump statement.
+a.  Break statement.
+b.  Continue statement.
+
+
+DECISION MAKING STATEMENT.
+-->This is used when we need to decide the statement validation.  Basically
+it will evaluate the boolean expression. 
+example:
+IF statement:
+-->simple if
+-->if-else
+-->if-else-if
+-->nested-if 
+
+SIMPLE IF STATEMENT:
+===================
+Syntax:
+if(condition)
+{
+statement //it will execute only if the condition is true.
+}
+
+package ControlStatement;
+
+public class Decisionstatement
+{
+	public static void main(String[] args)
+	{
+       int a=20; 
+       int b=30;
+     //Simple if statement
+       if(a<b) //20<30
+       {
+    	   System.out.println("A is lesser than B");
+       }
+    	   
+	}
+}
+
+==============
+IF-ElSE STATEMENT:
+------------------
+if(wanted to get job)
+{
+you need to work hard
+}
+else
+enjoy the class
+
+syntax:
+if(condition)///true
+{
+statement1
+}
+else //false
+{
+statment2
+}
+
+program:
+package ControlStatement;
+
+public class Decisionstatement
+{
+	public static void main(String[] args)
+	{
+       int a=20; 
+       int b=30;
+     //Simple if statement
+       if(a<b) //20<30
+       {
+    	   System.out.println("A is lesser than B");
+       }
+     //if else statement
+       int x=10;
+       int y=20;
+       if(x<y)//condition, 10<20
+       {
+    	  System.out.println("X is less than Y"); 
+       }
+       else
+    	 System.out.println("x is greater than Y");  
+     
+	   }
+}
+
+IF-else-IF:
+-----------
+This contains the if statement followed by multiple else if statments.
+
+syntax:
+-----
+if(condition 1)
+{
+statement1 //execute when condition 1 is correct/true
+}
+ else if(condition 2)
+ {
+   statement 2 //execute when condition 2 is true
+ }
+ else
+ {
+  statemtn  //when all the conditions are false
+ }
+
+example:
+subject="Maths"
+if(subject=="Science)
+{
+sop(my sub is science);
+}
+else if(subject=="English)
+}
+sop(subject is englis)
+else
+sop(subject is +subject)
+}
+
+programs:
+package ControlStatement;
+
+public class Controlsatatment2
+{
+   public static void main(String[] args)
+   {
+	String subject="Maths";
+	if(subject=="Science")//condition 1
+	{
+		System.out.println("Subject is Science");
+	}
+	else if(subject=="English") //condition 2
+	{
+		System.out.println("Subject is englis");
+	}
+	else if(subject=="social") //condition 3
+	{
+		System.out.println("Subject is social");
+	}
+	else 
+		System.out.println("Subject is "+subject);
+   }
+}
+==========
+4.  NESTED IF statement:
+---------------------------
+If statement can contain multiple inner statement(a if or if else)
+syntax:
+------
+if(condition 1)
+{
+statement1 //when condition 1 is true
+if(condition 2)
+statement 2//when condition 2 is true
+}
+else
+{
+statement//when condition 2 is false
+}
+
+}
+
+Program:
+package ControlStatement;
+
+public class controlstatmentnestedif
+{
+   public static void main(String[] args)
+   {
+	int attendance=70;//condtion if attedance is more than 50, then only he /she will write exam
+	if(attendance>50)//condition1
+	{
+		int marks=30;
+		if(marks>40)//innercondition 2
+		{
+			System.out.println("Student has passed the exam");
+		}
+		else
+		{
+			System.out.println("Student has failed the exam");
+		}
+	}
+	   
+  }
+}
+
+Assignment for the day:
+-----------------------
+1.  Write a java program to perform below:
+a.  if statement.
+b.  nested if.
+c.  if-else
+d.  if-else-if ladder
+
+Pleas send it to "javatraininghyd1@gmail.com"
+
+===================================================================
+
+Switch Statement:
+It is similar to else if statement. The switch statement contains multiple blocks of code that called as CASE and a single case is being execute based on the variable which is being switched.
+
+Feature/Points to remember switch statement:
+-------------------------------------------
+1.  Case variable can be int, short, byte, char.  
+Earlier string were not supported  but from java 7 onwards, it has been supported.
+2.  Case can be never duplicated.
+3.  Default statement should run if any of cases is not matching.
+
+Syntax:
+switch(expression)
+  case value1:
+    statement;
+    break;
+  case value2:
+    statement2;
+    break;
+..........
+..........
+   case valuen:
+     statement;
+     break
+   default:
+     default statement;
+
+example:
+int number=1;
+switch(number)
+{
+case 0:
+  sop("Number is matching, it is 0")
+  break;
+Case 1:
+  sop("Number is matching, it is 1");
+  break;
+case 3
+----
+----
+break;
+default:
+sop("Hey its is not matching, number is:" +number);
+}
+
+---------->
+package ControlStatement;
+
+public class Swtichstatement
+{
+  public static void main(String args[])
+  {
+	int number=0;
+	//switch
+	switch(number)
+	{
+	case 0:
+		System.out.println("Number is matching that is: "+number);
+	   break;
+	case 1:
+		System.out.println("Number is matching that is: "+number);
+		break;
+	case 2:
+		System.out.println("Number is matching that is: "+number);
+		break;
+	default: 
+	    System.out.println("I am a default statment and number is not matching that is: "+number);
+	}
+	
+  }
+  
+}
+
+==============================================================
+LOOP STATEMENT:
+---------------
+Sometime, we might need to execute particular block repeatedly when some condition has met to be TRUE.  In that case, we will use loop statement.
+
+In java, we have below different types of loops:
+1.  For loop.
+2.  While loop.
+3.  Do while
+
+FOR LOOP:
+-----------
+It is able to first initialize the loop variable and then check the condition and then either increment/decrement the value variable.
+
+Syntax:
+-------
+for(initialization; condition; increment/decrement)
+{
+//block statement
+}
+example:  iteration
+
+for(int i=10; i<20; i++)
+{
+  syso(i);
+
+}
+sop(I am free now)
+
+practically
+i=20
+
+o/p:
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+
+example2:
+for(int i=1;i<5;i+2)
+{
+sop(i)
+}
+
+values
+1=5
+
+o/p
+1
+3
+
+Program:
+package ControlStatement.LoopStatement;
+
+public class Forloop1
+{
+  public static void main(String[] args) 
+  {
+	for(int i=1;i<5;i++)
+	{
+		System.out.println(i);
+	}
+  }
+}
+
+example:
+8
+16
+24
+32
+40
+48
+56
+64
+72
+80
+
+for(i=1; i<11;i++
+(
+sop(8*i)
+)
+
+Assignment for the day:
+-----------------------
+1.  Write a program to execute switch statement.
+2.  Write a program to get the table of 11
+e.g
+11
+22
+33
+etc
+110
+3.  Write a program to find out all even number from 20 to 40.
+
+logic:  for(int i=20;i<=40;i++)
+{
+sop(i+=2);
+}
+
+i=20
+o/p:22
+
+
+=====================================
+While loops:
+It is used to iterate over the number of statement multiple times.
+
+But if we dnt know the number of iteration to be performed well in advance,it is recommended to use while loop.
+
+It is also known as entry controlled looping system since the condition is checked at the starting itself.  If the condition is true, it body/loop will execute, otherwise, the statement after the loop will execute.
+
+Syntax:
+while(condition)
+{
+//statement
+}
+example
+int i=10;
+while(i<=20)
+{
+sop(i);
+i++;
+}
+
+value of i=21
+o/p:
+10
+11
+--
+--
+--
+20
+
+programs:
+package ControlStatement.LoopStatement;
+
+public class Whileloop1
+{
+   public static void main(String[] args)
+   {
+	 int i=10;
+	 while(i<=20)
+	 {
+		 System.out.println(i);
+		 i++;
+	 }
+   }
+}
+
+Program to find the odd number between 20 and 30
+logic:
+int i=21;
+while(i<=30)
+{
+sop(i);
+i+=2;
+}
+
+o/p:
+21
+23
+25
+27
+29
+
+=====================================
+Do-While loops:
+---------------
+Do while loops checks the condition at the end of the loop after executing the looping statement.  when there is number of iteration is not known and we have to execute the loop at least one time, then we will do while.
+
+
+Syntax:
+do
+{
+statement
+}
+while(condition);
+
+example:
+int i=5
+do
+{
+sop(i);
+i++;
+}
+while(i<=10)
+
+Assignment for the day:
+1.  Write a program to find out odd number from 50 to 70 using forloop.
+2.  Write a program to implement while loop.
+3.  Write a program to implement do while loops.
+
+program:
+--------
+*
+**
+***
+row=3
+i=2
+j=0
+
+o/p:
+*
+**
+***
+
+
+
+int row=5
+for(int i=0;i<row;i++)
+{
+  for(int j=0;j<=i;j++)
+   {
+      sop("$");
+   }
+   sop(/n);
+}
+
+example
+$
+$$
+$$$
+$$$$
+$$$$$
+
+package ControlStatement;
+
+public class Starpattern 
+{
+	public static void main(String [] args) {
+		int i,j;
+		for(i=1;i<=5;i++)
+ {
+			for(j=1;j<=i;j++) {
+				System.out.print("$");
+			}System.out.println();
+		}
+	}
+
+}
+
+******
+*****
+****
+***
+**
+*
+
+  *  
+ ***
+*****
+
+  *
+ ***
+*****
+ ***
+  *
+==========================================================
+****
+***
+**
+*
+
+for(int i=1;i<=4;i++)
+{
+   for(int j=4;j>=i;j--)
+    {
+      sop(*);
+    }
+    sop();
+
+}
+
+Logic:
+i=3
+j=1
+
+o/p:
+****
+***
+**
+*
+program:
+=========
+package ControlStatement.LoopStatement;
+
+public class Starpattern2 
+{
+ public static void main(String[] args)
+ {
+    for(int i=1;i<=4;i++)
+       {
+         for(int j=4;j>=i;j--)
+           {
+              System.out.print("*");
+           }
+        System.out.println();
+
+       }	
+}
+}
+
+===================================================
+Star pattern
+   *
+  **
+ ***
+****
+for(int i=1;i<=4;i++)
+{
+  for(int j=3;j>=i;j--)
+  {
+      sop();
+  }
+  for(int k=1;k<=i;k++)
+  {
+    sop(*);
+  }
+  sop();
+}      i=3, j=3; k=2
+} 
+_ _ _*
+_ _ **
+_ * **
+* * **
+====================================================
+      *
+    *   *
+   *  *  *
+  *  * *  *
+======================
+package ControlStatement.LoopStatement;
+
+public class Starpattern3
+{
+  public static void main(String[] args)
+  {
+	  for(int i=1;i<=4;i++)
+	  {
+	    for(int j=4;j>=i;j--)  1>=2
+	    {
+	      System.out.print(" ");                   
+	    }                            
+	    for(int k=1;k<=i;k++)    2<=2     
+	    {
+	       System.out.print("*");
+	    }
+	    System.out.println();
+	  }
+  }
+} 
+=====================================================
+*******
+ *****
+  ***
+   *
+for(int i=1;i<=4;i++)
+{
+   for(j=1;j<=i;j++)
+   {
+      sop("");
+   }
+   for(int k=4;k>=i;k--)
+   {
+     sop("*");
+   }
+   for(int l=3;l>= i; l--)
+   {
+     sop("*");
+   }
+   sop();
+====================================================================
+OOPs:
+-----
+Different feature of OOPs:
+1.  Class.
+2.  Objects.
+3.  Inheritance.
+4.  Polymorphism.
+5.  Abstraction.
+6.  Encapsulation.
+7.  Message passing.
+
+Class:
+------
+In java, classes and objects are basic concepts of OOPs that will be used to represent your real time concepts.
+
+The class is the group of similar type of objects that means it has similar properties and behavior.
+
+Example
+Dog----->class
+Objects----->breeding
+example:  Rocky
+
+Properties of java classes:
+---------------------------
+1.  Class is not a real world entity.  IT is just blueprint/format/template/prototype on which object would be created.
+2.  It does not take any memory.
+3.  Class is collection of similar types of object.
+4.  A class can have below items like
+data members
+data method
+Constructors
+deconstructor
+Nested class.
+interface.
+
+Syntax of class:
+<access modifier> class <classname>
+{
+data members
+methods
+constructors
+innerclass
+interface
+}
+
+example:
+class Dog
+{
+
+}
+
+Questions:
+Can i have multiple class in a program.
+Can i have multiple public class in a program.
+
+
+Objects:
+---------
+Objects in java is a basic of OOPs.  It is real time entity.
+Object are the instances of a class that are created to used the methods and data members of class.
+An objects consists of state:  Properties of object, behavior:  Methods of the objects, Identity:  It will give unique name to talk/interact with other objects.
+
+How to declare/define an object:
+syntax:
+Classname <objectname>
+example
+
+Dog d1;
+
+Feature of class:
+----------------
+1. Data members/properties.
+----------------------------
+Data members are the properties of class which is used to show what all the features of class is having.  It can be represented by variable as well.  It is declared inside the class.
+
+Dog has name //name is feature of dog.
+Dog has height //height is the feature of dog.
+
+<Classname> has a <data members>
+
+Syntax:
+class Dog
+{
+data type name;  //data member
+data type color; //data member
+}
+
+Methods:
+--------
+Method shows the behavior of class.  In other way, it a task or some set of instructions that need to be performed when it is called.
+
+In java, method is a block of code to perform certain action or operation.
+
+It is being written in quotation.
+like run(), laugh(), bark() etc.
+
+Declaration:
+------------
+access modifier <methodname>()
+It can have parameter also.
+
+Method body:
+-----------
+It is a part of the method declaration. It contains all the actions to be performed.  It is enclosed within the curly braces.
+example:
+void run() //method 
+{
+  //method body
+}
+
+Program1:
+--------
+class Dog
+{
+  //data member
+Sting name;
+Sting color;
+int height;
+//Methods
+void bark()
+{
+sop("Dog is barking");
+}
+
+void jump()
+{
+sop("Dog is jumping");
+}
+void eat()
+{
+}
+
+}
+
+
+Practical:
+package OOPs;
+
+public class Dog
+{
+//data memebers
+	String name="Tommy";
+	String color;
+	int height;
+//method
+	void jump()
+	{
+		System.out.println("Dog is jumping");
+		System.out.println("Name of the dog is "+name);
+	}
+	void eating()
+	{
+		System.out.println("Dog is eatig");
+	}
+	public static void main(String[] args) {
+		System.out.println("I am the body of main method");
+		Dog d1=new Dog();//classname objectname=new classname();
+		d1.jump();
+		
+
+		
+	}
+	
+}
+
+=========================================================================
+
+class Humanbeing
+{
+//data members
+int height=150;
+int weight=75;
+String name;
+//methods
+void read()
+{
+sop("I am reading");
+}
+void sleep()
+{
+sop("I am sleeping");
+}
+}
+
+========================================================
+Access modifier:
+----------------
+It will allow the permission to the class and their data members and method.
+
+1.  Access modifier:  It controls the access level
+2.  Non-access modifier:  It doesn't control access level but it provides some other functionality.
+
+Access modifier:
+----------------
+1.  They are used to control access mechanism
+2.  Access modifier in java will help to restrict the scope of:
+a.  class.
+b.  constructor.
+c.  method.
+d.  data member.
+3.  They also provide information about their functionality to the JVM.
+
+Different types of access modifier:
+1.  Default.
+2.  Public.
+3.  private
+4.  protected.
+
+Access modifier for the class:
+-----------------------------
+.public
+.default
+1.  We can make use of it for outer and inner class.
+2.  For outer class, there can be only two possibilities it can be defaultor public.
+3.  For inner class, there can be all the four access modifier.
+4.  There can be only one public class in a single java file.
+5.  The name of the java file must be the same as the public class.
+6.  only public class can be used outside the package
+7.  If we dnt write any access modifier, it by default it is "Defeault access modifier"
+8.  We can call default access modifier only inside the same package
+
+Access modifier for data members and functions:
+------------------------------------------------
+1.  We can call or use all the four different types of access modifier like public protected private and default.
+2. When the members of the class are private, they cannot be accesed from out side the class body.
+3. When members of the class are protected, they can be accessed from any of class in the same package and child class of the other package.
+4. when the members of the class are public, they are accessible from any classof t any package.
+5.  When members of the class are default, they are accessible from only the class of the same package.
+
+
+Default--->
+public---->
+Private---->
+Protected
+
+====================oops:
+inheritance:
+------------
+base class/parent class/superclass
+derived class/childclass/subclass
+
+1. Single inheritance
+2. Multilevel inheritance
+3. Hierarchical 
+
+=========================
+Inheritance:
+Inheritance in java is a mechanism in which one object acquired all the properties and behavior of a parent object.  It is very important concept of OOPs.
+
+Why inheritance??
+-->Reusability.
+-->Eliminated repeated usage of class and their property.
+-->Reduce number of line of codes.
+-->We can implement method overriding.
+
+
+Inheritance will follow IS-A relationship which is also called Parent-child relationship.
+
+Terminologies used in inheritance:
+1. Base class/parent class/super class: A class from where we will acquired  the properties/behavior.
+2. Child/Derrived/subclass:  The class which will get the properties from the other class.
+
+Syntax of inheritance:
+---------------------
+class <child/subclass> extends <Superclass/parent>
+{
+
+}
+
+Extends is a keyword already in java library
+
+Types of inheritance:
+-====================
+1.  Single inheritance.
+2.  Multilevel inheritance.
+3.  Hierarchical inheritance.
+4.  Hybrid inheritance.
+
+
+Single inheritance:
+--------------------
+When a class inherits the another class.  It is called as single inheritance.
+Example,
+class A extends B
+A-->child
+B-->Parent
+
+
+Example:
+public class SigleInheritance
+{
+
+}
+class HumanBeing
+{
+int salary;
+String name;
+void eat()
+{
+syso("I am eating");
+}
+}
+
+class Naveenclass
+{
+int age;
+String education="BTEC";
+void teach()
+{
+syso("I am teaching");
+}
+void earn()
+{
+syso("I am earning");
+}
+}
+
+multilevel inheritance:
+----------------------
+
+example:
+HumanBeing--->Naveenclass---->newnaveenclass
+
+
+Newnaveenclass extends Naveenclass
+
+Activity:
+Try for multiple(although java does not support).
+A-->parent
+B-->parent
+C--->child
+
+=========================================
+Multilevel inheritance:
+-----------------------
+Multilevel inheritance:  It is a concept in java that allows one class to be extended or derrivd from multiple classes.
+
+Example
+parent class------->child class1
+Now, child class1 became parent of child class2
+
+Feature/Benefits of multilevel inheritance:
+1.  It allows the code to be reused in multiple parts of application.
+2.  It enables addng new feature/functionality without affecting the existing code.
+3.  Classes can be arranged into the hierarchies, each with some specific role and responsibilities.
+4.  Extends is the keyword which is used for inheritance.
+
+Program:
+package corejava.Inheritance;
+
+public class MultilevelInheritance
+{
+public static void main(String[] args) {
+	Son s1=new Son();
+	s1.mul();
+	s1.sub();
+	s1.sum();
+}	
+
+}
+class Grand 
+{
+int x=10;
+int y=20;
+void sum()
+{
+int z=x+y;
+System.out.println(z);
+}
+}
+
+class Father extends Grand
+{
+int a=30;
+int b=40;
+void sub()
+{
+int c=b-a;
+System.out.println(c);
+}
+}
+
+class Son extends Father
+{
+int p=20;
+int q=2;
+void mul()
+{
+int r=p*q;
+System.out.println(r);
+}
+}
+
+=================================
+Hierarchical inheritance:
+-------------------------
+When two or more classes inherits the same single class, that is called as hierarchical inheritance.
+
+Feature:
+1.  Both the child class can access the property of same parent class
+2.  Extends is the keyword used for inheriting.
+
+Example
+Class A //base class
+{
+}
+class B extend A //B is child of A
+{
+}
+class C extends A //C is child of A
+{
+}
+
+
+program:
+package corejava.Inheritance;
+
+public class Herirarechal {
+	public static void main(String[] args) {
+		System.out.println("This is from main()");
+		child1 c1=new child1();
+		c1.qualification();
+		c1.property();
+		child2 c2=new child2();
+		c2.kid();
+		c2.property();
+	}
+}
+//Working with inheritance 
+class Parent{
+	//Data Members 
+	String name="Father";
+	
+	//Data Methods 
+	void property() {
+		System.out.println("I have 3cr Property");
+	}
+}
+
+// Creating child
+class child1 extends Parent{
+	//Data members
+	int age=25;
+	
+	//Methods
+	void qualification() {
+		System.out.println("I Done my master in MCA");
+
+	}
+}
+class child2 extends Parent{
+	//Data members
+	int age=12;
+	
+	//Methods
+	void kid() {
+		System.out.println("I'm a kid");
+
+	}
+}
+=======================================================
+Hybrid inheritance in java:
+---------------------------
+Hybird inheritance in java refers the combination of tow or more type of inheritance such as single, multilevel inheritance,, and hierarchical inheritance.
+
+Java achieves this by using interface in conjunction with class inheritance since it does not support multiple inheritance.
+
+example:
+package corejava.Inheritance;
+
+public class Hybrid {
+	public static void main(String[] args) {
+		Daughter d1=new Daughter();
+		d1.mdaugther();
+		d1.mf();
+		d1.mgf();
+		System.out.println(d1.w);
+	}
+
+}
+class GrandFather
+{
+	int a=20;
+	int b=30;
+	void mgf()
+	{
+		System.out.println("I am granfather");
+	}
+}
+class Father extends GrandFather
+{
+	int x=10;
+	int y=20;
+	void mf()
+	{
+		System.out.println("I am a father");
+	}
+}
+class Son extends Father
+{
+	int p=10;
+	int q=40;
+	void mson()
+	{
+		System.out.println("I am son");
+		
+	}
+}
+class Daughter extends Father
+{
+	int w=50;
+	int u=40;
+	void mdaugther()
+	{
+		System.out.println("I am a daughter");
+	}
+}
+===================================================
+Multiple inheritance(NOTE:  It is not allowed in java)
+
+If a class inherits the property of two parent class, that is called as multiple inheritance.  It is not possible in java. Reason being is it wil create an ambiguity issue.
+
+SOLUTION:  Interface is solution(that will be covered in interface topics)
+
+example:
+class A
+{
+}
+class B
+{
+}
+class C extend A, //not possible
+{
+}
+
+
+Polymorphism:
+-------------
+Lets break it two parts:
+Poly====>Many
+Morphism====>Form
+
+We can define polymorphism as the ability of a message to be displayed in more than one form.
+
+Example of Naveen--->
+I am kind with students-->Kind 
+I am cruel with my enemy-->Cruel
+At the same time, one guy is kind and cruel as well.
+
+It is one of the powerful concept of OOPs, which allows us to perform a single action in different ways.
+
+Types of polymorphism:
+-----------------------
+1. Compile time polymorphism.
+2. Run time polymorphism.
+
+Compiletime polymorphism:
+-------------------------
+It is also know as static polymorphism.  This type of polymorphism is achieved by method overloading.
+
+Method overloading:
+-------------------
+When there are multiple functions/methods with the same name
+ but the different parameter then these methods are called method overloaded.
+
+Function/Method can be overloaded by changing the number of argument/parameter or it can be done by changing the type of parameter
+
+example:
+void sum(int a, int b)
+{
+} 
+void sum(int x, int y, int z)
+{
+
+}
+
+Other example:
+void sum(int x, int y)
+{
+
+}
+void sum(float x, float y)
+{
+
+}
+
+
+program:
+-------
+int x=10;
+int y=20;
+int a=10;
+int b=20;
+int c=30;
+void sum(int x, int y)
+{
+int z=x+y;
+}
+void sum(int a, int b, int c)
+{
+int d=a+b+c;
+}
+
+program:
+package OOPs;
+
+public class MethodOverloading {
+public static void main(String[] args) {
+	A a1=new A();
+	a1.sum(10, 20);
+	a1.sum(10, 20, 30);
+}
+}
+class A
+{
+	void sum(int a, int b)
+	{
+		int c=a+b;
+		System.out.println("Sum of two numbers are "+c);
+	}
+	void sum(int x, int y, int z)
+	{
+		int p=x+y+z;
+		System.out.println("Sum of three numbers are "+p);
+	}
+}
+
+====>Other program
+package OOPs;
+
+public class MethodOverloading1 {
+public static void main(String[] args) {
+	B b1=new B();
+	b1.sum(1.5, 4.5);
+	b1.sum(10, 20);
+}
+}
+class B
+{
+	void sum(int x, int y)
+	{
+	int z=x+y;
+	System.out.println("sum of int values are "+z);
+	}
+	void sum(double p, double q)
+	{
+	double r=p+q;
+	System.out.println("Sum of double numbers are "+r);
+	}
+}
+
+JAM???
+
+=====================
+Assignment:
+A.  Please complete ihheritance below topis:
+1.  Single 
+2.  Multiple
+3.  Hierarchical
+4.  Hybrid
+5.  Multilevel inheritance
+B.  Please write a program for method overloading.
+
+====================================================
+
+Method overriding:
+------------------
+It is one of the powerful feature of OOPs.  If the subclass(child class) has the same method name declared in the parent class, it is known as method overriding in the java.
+
+In another word, if a subclass provides the specific  implementation of the method that has been declared by one of its parent class, then it is also known as method overriding.
+
+Usages of Method overriding:
+---------------------------
+1. IT will provide the specific implementation of a method which is already there in superclass.
+2. Method overriding is used for the runtime polymorphism.
+
+syntax:
+class A
+{
+void A(int x)
+{
+}
+class B extends A
+{
+void A(int x)
+{
+}
+
+Rules:
+1. both the method should have same name.
+2.  Both the method should have same parameter.
+3.  Both the class should be related to IS-A relationship.
+
+example:
+class Hello
+{
+void calculate(int x)
+{
+int square=x*x;
+syso("The square value of x is "+square);
+}
+}
+class Hi extends Hello
+{
+void calculate(int x)
+{
+int cube=x*x*x;
+syso("The cube value of x is "+cube);
+}
+}
+
+program:
+package OOPs;
+
+public class MethodOverriding 
+{
+public static void main(String[] args) {
+	Hi h1=new Hi();
+	h1.calculate(10);
+	Hello h2=new Hello();
+	h2.calculate(10);
+	//Hello h3=new Hi(); Reference object is not going to access child mehtod
+	//h3.calculate(10);
+	Hi h4=new Hello();
+	h4.calculate(10);
+}
+}
+class Hi
+{
+   void calculate(int x) //same method with x as argument
+   {
+      int square=x*x;
+      System.out.println("The square value of x is "+square);
+   }
+}
+class Hello extends Hi
+{
+    void calculate(int x)  //same method with x as argument
+     {
+      int cube=x*x*x;
+       System.out.println("The cube value of x is "+cube);
+     }
+}
+
+=====================================
+practice:
+class A
+{
+void calculate(int y)
+{
+sq=y*y
+}
+}
+class B extends A
+{
+void calculate(int y)
+{
+sqrt(x);
+}
+}
+B a1=new A()
+a1.calculate();
+}
+}
+
+==============================
+package OOPs;
+
+public class Methodoverriding1 {
+public static void main(String[] args) {
+	Tiger t1=new Tiger();
+	t1.eat();
+	Animal t2=new Animal();
+	t2.eat();
+	Animal t3=new Tiger();
+	t3.eat();
+	//Tiger t4=new Animal(); Not possible
+	
+}
+}
+class Animal
+{
+	void eat()
+	{
+		System.out.println("Animal is eating");
+	}
+}
+class Tiger extends Animal
+{
+	void eat()
+	{
+		System.out.println("Tiger is eating");
+	}
+}
+
+================================================================
+Abstraction in java:
+--------------------
+It is a process of hiding the implementation details of some functionality to the user.
+
+Abstract class:
+---------------
+A class is an abstract class when we used prefix as abstract like, 
+abstract class Hello
+{
+}
+
+NOTE:  An abstract can have both abstract method or non-abstract method
+example
+class Hello  //default class or non-abstract class
+{
+}
+abstract class Hello  //abstract class
+{
+}
+
+Abstract method:
+----------------
+If we add abstract prefix before any method, that is abstract method
+
+abstract void eat();    //abstract method
+void eat();             //non-abstract method
+
+example:
+
+public class Abstraction
+{
+
+}
+abstract class What
+{
+void eat()  //non abstract method
+{
+}
+abstract void drink();  //abstract method
+
+}
+
+Features for the abstract class and methods:
+1.  An abstract class is a class that is being declared by the keyword called as "abstract"
+2.  An abstract method is a method that is declared as prefix of "abstract keyword" and it should not be implemented.
+3.  An abstract class may or may not have all the abstract methods.  Some of them can be non-abstract/concrete method.
+4.  A method defined as abstract must always be redefined/implemented  in the subclass, thus making it method overriding compulsory or making the subclass itself as abstract.
+5.  There can be no object of an abstract class.  Lets say, an abstract class cannot be directly instantiated with the keyword "new" 
+6.  An abstract class can have parameterized constructor and the default constructor that is always present in the abstract class
+
+package OOPs;
+
+public class Abstraction {
+	public static void main(String[] args) {
+		Kumar k1=new Kumar();
+		k1.eat();
+		k1.drink();
+		Naveen n1=new Kumar();
+		n1.eat();
+		n1.drink();
+	}
+
+}
+abstract class Naveen
+{
+	void eat()
+	{
+	  System.out.println("Non abstract method is eating");	
+	}
+	abstract void drink();
+}
+
+class Kumar extends Naveen
+{
+	void drink()
+	{
+		System.out.println("Abstract mehthod is called");
+	}
+}
+
+================================
+Interface in java:
+The interface is a mechanism to achieve 100% abstraction.  An abstract could only have abstract methods. In other words, interfaces primarily defines methods that other class must implement it.
+
+Features:
+---------
+1.  It primarily defines the methods that other class must be impleting.
+2.  Abstract keyword applies only to the class and method indicating that they cant not be instantiated but implemented by the other class.
+3.  We might not have to define the keyword as "abstract" in prefix for the method..
+Syntax:
+-------
+interface I1
+{
+//declare the abstract method
+
+}
+
+examples:
+interface I1
+{
+void m1();
+void m2();
+// void m3() This will not be allowed
+{
+}
+classname implements interface
+{
+m1()
+{
+}
+m2()
+{
+}
+
+}
+
+Program:
+package OOPs;
+
+public class InterfaceHandling {
+    public static void main(String[] args) {
+        Anyclass a1=new Anyclass();
+        a1.m4();
+        a1.m1();
+        a1.m2();
+        a1.m3();
+        //I1 ii2=new I1();//Cannot create the object
+        I1 ii3=new Anyclass();
+        ii3.m1();
+        ii3.m2();
+        ii3.m3();
+        //ii3.m4();//method not exist
+       
+       
+    }
+
+}
+interface I1
+{
+ void m1(); //abstract method
+ void m2();  //abstract method
+ abstract void m3();
+ 
+}
+class Anyclass implements I1
+{
+    public void m2()
+    {
+        System.out.println("M2 method-abstact");
+    }
+    public void m1()
+    {
+        System.out.println("M1 method-abstract");
+    }
+    public void m3()
+    {
+        System.out.println("M3 method-abstract");
+    }
+    void m4()
+    {
+        System.out.println("M4 method-Nonabstract");
+    }
+   
+   
+}
+
+=========================================================================
+Encapsulation in java:
+It is a process of wrapping code and data together into a single unit.
+example:  Capsule.
+
+we can create a fully encapsulated class in java by making all the data members of the class by making it private.  We can use setter and getter methods to set and get the data of it.
+
+Advantages of using encapsulation in java:
+-----------------------------------------
+by providing only a setter or getter method, you could make the class read-only or write only. Or, we can say like you can skip the getter or setter method.
+
+It provides the control over the data which all we wanted to access.
+
+It is a way to achieve data hiding in java because other class will not be having access of data through private access modifier
+//TO do activity at the time of static, final other
+example:
+public class Employee
+{
+private String ename;  //private data members
+public String getname() //getter method
+{
+return ename;
+}
+//setter method
+public void setname(String ename)
+{
+this.ename=ename
+}
+--------------------------------------------------------------
+Question:
+Why java does not support multiple ineritance:
+Ans:  Due to ambiguity issue, it does not support.
+Already we have seen the program.
+
+Solution:
+Interface-->blueprint of class.
+
+package OOPs;
+
+public class MultipleInheritanceViaInteraface {
+public static void main(String[] args) {
+	C1 obj=new C1();
+	obj.sum();
+	obj.sub();
+	obj.mul();
+	
+}
+}
+
+interface A1
+{
+int x=10;
+int y=30;
+int z=x+y;
+void sum();
+}
+interface B1
+{
+int a=10;
+int b=50;
+int c=a-b;
+void sub();
+}
+
+class C1 implements A1, B1
+{
+public void sum()
+{
+System.out.println("sum of two numbers are "+z);
+}
+public void sub()
+{
+System.out.println("Subtraction of two numbers are "+c);
+}
+void mul()
+{
+int w=10;
+int q=5;
+int r=w*q;
+System.out.println("multiplication of two numbers are "+r);
+}
+}
+
+============================
+What is difference between abstract class and interface:
+1.  Abstract class can have abstract and nonabstract method,
+where as 
+interface can have only abstract class.
+2.  Abstract class does not support multiple inheritance.
+where as,
+interface supports multiple inheritance.
+3.  Abstract class can be prefixed with "abstract keyword"
+where as,
+interface can be prefixed with "interface"
+
+4.  Abstract class can provide the implementation of interface
+where as,
+interface cant provide implementation of abstract class.
+5.  A class can only extends one abstract class.
+whereas,
+a class can implements multiple interface.
+
+6.  A java abstract class can have members like private, protected etc.
+where as,
+members of java interface are public by default.
+
+7.  Abstract methods in abtract has to be written by prefix abstract,
+where as,
+abstract method in interface does not require prefix abstract.  It is by default an abstract.
+
+8.  The abstract class can have final, non-final, static, and nonstatic variables.
+where as,
+interface has only static and final variable.
+
+=========================================
+Assignment:
+1.  Can main method be overridden?No
+
+------------
+public class Hello
+{
+  public static void main(String [] args)
+  {
+    system.out.println("Hello World");
+  }
+}
+
+=================================
+Friendsbook
+Homepage
+messenger
+Login 
+Logout
+etc
+
+sprint 1:
+Login
+Naveen-->UN, pwd(10 days)---->came to office--->absent for continuous 10 dayus
+Sai Harsha:  Loginbutton
+Deepika: Forgetun
+Likitha:  Forgetpwd
+
+repo:  Facebook mainbranch  1000 LOC-->2000 LOC
+Naveenbranch:  1000 LOC--->2000 LOC
+Likita branch:  1000 LOC
+Deepika branch:  1000 LOC
+Saibranch:  1000 LOC
+
+Pull request:  It is the process to merge the code from one branch to other branch(subbanch to mainbranch,subbnach to subbranch, mainbranch to subbranch)
+pull
+push
+merge
+
+
+NOTES:
+create account in GitHub
+create a repo(private/public)
+Add some file in main branch
+Create new branch like naveenbranch
+Observe the file has come from mainbranch
+Make some changes in the naveenbranch file
+Create pull request
+Observe changes is shown in main branch also.
+
+Download gitscm--->window->standlone-->32/64 bit
+https://git-scm.com/download/win
+Install
+Create a folder in your local(anywhere)
+Right click and open with gitbash
+git status--->to check whether GitHub repo is there or not
+git init-----> to create a repo
+git status---->on branch master
+git clone "xxxxxxxxx"   {You might stucked as "who are u, tell ur identity"}
+You can get clone URL from github--->repo---->code--->https clone url
+See the clone succeeded.
+ls--->to see list of file(if clone u wll see ur GitHub repo)
+cd---->to inside folder(change directoy)
+ls
+cat filename---->It will give you content of the file
+
+NOTE:  If possible plz create a branch with your name in my JAVARepo
+https://github.com/CKNAVIN1009/JavaRepo
+
+
+======================================
+Constructor:
+
+public class construcorclass
+{
+Hello h1=new Hello();
+h1.Hello()'//not 
+}
+
+class Hello
+{
+public Hello()
+int a;
+
+{
+
+}
+
+}
+
+
+=====================
+Pull request:
+
+
+main branch
+I m doing good.
+I live in city1
+I love my country1
+How about you.
+
+
+dev1
+I m doing good.
+I live in city1
+I love my country1
+How about you.
+
+dev2
+I m doing good.
+I live in city2
+I love my country2
+How about you.
+
+https://nareshit.zoom.us/j/84186914068
+MKMR1W
+========================================
+
+CONSTRUCTOR IN JAVA:
+---------------------
+
+In java, constructor is a block of code similar to the method.  It is called when the instance of class is being created.  At the time of calling the constructor , memory of the object is allocated in the memory.
+
+It is a special type of method which is used to initialized the object.
+
+Every time an object is created using the new()keyword, at the one constructor is called.
+
+It calls the default constructor if there is no constructor available in the class.  Compiler will create automatically those type of constructor.
+
+Rules for creating constructor:
+-------------------------------
+1.  The name of constructor would be same as the name of class.
+2.  There is no return type of the constructor. example void, int etc.
+void int()
+3.  The constructor will play the role as the method plays.
+4.  The access modifier of the construct are public, private, protected and default only.
+5.  Constructor would be called automatically when we create object of that class.
+
+DIFFERENT OF CONSTRUCTOR:
+1.  Non parameterized constructor
+a.  Default non-parameter constructor(By default created by compiler)
+b.  User defined non-parameter constructor.
+2.  Parameterized constructor
+
+1.a. Default no-argument constructor:
+
+If user does not specify any constructor, then Compiler would create this constructor automatically.
+example:
+
+class Test
+//Test()
+{
+}
+{
+psvm(String args[])
+{
+Test t=new Test();
+}
+}
+
+Program:
+package corejava;
+
+public class DefaultConstructor {
+	int a;
+	String b;
+public static void main(String[] args) {
+	DefaultConstructor d1=new DefaultConstructor();
+	System.out.println("The value of a: "+d1.a);
+	System.out.println("The valuf of b: "+d1.b);
+}
+}
+
+------------
+1.b.  User defined no-argument constructor.
+If we are defining any method as the same name of class, then it user defeined no argument constructor
+
+example:
+class Test
+{
+Test()
+{
+}
+psvm(String args[])
+{
+Test t1=new Test();
+}
+}
+=====================================================
+User defined parameterized constructor:
+
+A constructor which has a specific number of parameters that is called as parametrized constructor.
+
+Why we use Parameterized constructor:
+--------------------------------------
+The parameterized constructor is used to provide different values to distinct objects. However, if you want you can provide the same values also.
+
+Example:
+class Employee
+{
+int empid;
+String name;
+//creating parameterized constructor
+Employee(int id, String n)
+{
+empid=id;
+name=n;
+}
+void display()
+{
+syso(empid, ""+name);
+}
+
+public static void main(String arg [])
+{
+ Employee e1=new Employee(1, 'Naveen');
+ Employee e2=new Employee(2, 'Rahul');
+e1.display();
+e2.display();
+
+}
+
+======================================================================
+Variables:
+----------
+The keyword/user defined word whose value will not be fixed.
+
+int a=10;
+int b=20;
+int a=b+a;
+
+There are three types of variables:
+1.  Instance variable.
+2.  Local variable.
+3.  Static variable.
+
+Common example:
+class A
+{
+int x=20;
+String name="Naveen";
+static int y=20;
+void add()
+{
+int p=20;
+q=x+p;
+r=p+y;  ??
+}
+void mul()
+{
+int z=10;
+m=z*x;
+n=z*p;  Not possible why because p is a local variable
+}
+
+----------------
+
+1.  Instance variable.
+The variable which we will write within the class and outside the method that is called as instance variable.
+
+Points:
+a.  Declaration:  It could be declared inside class, constructor or blocks.
+b.  Scope:  Inside the all methods, constructor, block BUT not inside the static method.
+c.  When memory is allocated:  when object is created then variable memory is allocated.
+    when memory is deallocated:  when object is destroyed then variable will be deallocated.
+d.  Default values:  Yes, it will accept the default value like int-->0, string-->null etc
+e.  Access modifier:  YES
+F.  HOW to access:  It can be accessed by creating objects.
+G.  Memory:  Heap memory.
+
+
+Program:
+package corejava;
+
+public class Instrancevariableprg {
+int a=10;
+int b=20;
+void m1()
+{
+	System.out.println(a);
+}
+public static void m2()
+{
+	// cant call instance variable in the in the static method
+	//System.out.println(b);
+}
+public static void main(String[] args) {
+	Instrancevariableprg i1=new Instrancevariableprg();
+	i1.m1();
+
+	
+}
+}
+
+=======================================================
+
+LOCAL Variable:
+A variable that is declared inside the body of the method.  We can use this variable only with the method where it has been declared. A variable can never be declared as static variable inside the method.
+
+POINTS:
+-------
+1.  Declaration: Inside the method, constructor, blocks etc
+2.  Scope:  With in the that class where it has been declared.
+3.  when Memory is allocated:  When the method is executed(obviously it would be done when object is created)
+Release:  When you exit from the method, the variable values/memory will be freed up.
+4.  Memory:  Stack memory.
+5.  Default memory:  It does not has any default values. It will take only assigned values.
+6.  Access:  NO
+
+
+package corejava;
+
+public class Localvariableprg {
+//instance variable
+int a=10;
+int b=20;
+void m1()
+{
+	//local variable
+	int c=40;
+	int d=c+b;
+    System.out.println("Local variable is "+c);
+    System.out.println("Value of d is "+d);
+}
+void m2()
+{
+	int e=10;
+	int f=e+c;  //local variable wil not be called outside the method
+}
+public static void main(String[] args) {
+	Localvariableprg l1=new Localvariableprg();
+	l1.m1();
+}
+}
+
+===================================================================================================
+Static variable:
+
+The variable which is being prefixed with word called Static is know as static variable.
+
+It means that variable belong to the class itself rather than to any specific instance of the class.
+
+A static int variable remains in memory while programming is running.  A normal or auto variable is destroyed when any method call where variable declaration if over.
+
+example:
+
+class A
+{
+int a =10;
+static int b=200;
+void m1()
+{
+//
+}
+psvm(String args[])
+{
+
+}
+
+Features of static variables:
+-----------------------------
+1. DECLARATION:  It is being declared inside the class but it should be outside the method, constructor, blocks.
+2. scope:  It can be accessed inside the class that is inside the method, constructor, or blocks and also in the static method.
+3. Variable:  When loaded:  When we the run program class and class variable is loaded.
+Deallocated:  when the .class program is terminated/destroyed.
+4.  Memory storage:  Static memory or non heap memory.
+5.  Default value:  Yeah, it has default value as instance variable.
+6.  Access modifier:  YES.
+7.  How to access:  Directly(no need of object)
+                    With class name also(like classname.variable)
+                    With object name also(like objectname.variable)->warning
+
+
+program:
+package corejava;
+
+public class StaticVariableimplementation {
+	//instance
+   int a=20;
+	//static variable
+	static int b=200;
+	void m1()
+	{   
+		
+		int c=a+10;
+		int e=b+20;
+	}
+	static void m2()
+	{
+		 
+		// int d=a+200; since a is instance variable
+		int d=b+200;
+	}
+	public static void main(String[] args) {
+		StaticVariableimplementation s1=new StaticVariableimplementation();
+		System.out.println(s1.a);
+		System.out.println(s1.b);
+		System.out.println(b);
+		System.out.println(StaticVariableimplementation.b);
+		
+	}
+
+}
+
+-===========
+program2:
+class A
+{
+ static int a=10;
+ void m1()
+ {
+  int b=10;
+  syso(a+ "  "+b);
+}
+}
+
+
+package corejava;
+
+public class Staticvariableimplemenation2 {
+	int s=200;
+	static int a=10;
+	void method1()
+	{
+		int b=10;
+		System.out.println(a +" " +b);
+		System.out.println(++a);
+		System.out.println(++b);
+		int t=s+b;
+		System.out.println(t);
+	
+		
+	}
+	public static void main(String[] args) {
+		Staticvariableimplemenation2 obj=new Staticvariableimplemenation2();
+		obj.method1();
+		System.out.println(++a);
+		
+	
+	
+	}
+
+}
+============================================
+JVM architecture:
+-----------------
+java code---->
+
+program.java file---->Compile--->they will give you .class(byte code)
+
+JVM----->Three different components:
+A.  Class loader
+example:
+LOADING:
+Bootstrap class loader, extension class loader, and application class loader.
+LINKING:
+Verify, prepare, resolve
+INITILIAZATION:
+ALL static variable are assigned with value.
+Static block will be executed from top to bottom
+
+B.  Memory area.
+C.  Execution engine
+
+========================================================================
+
+Java Virtual machine acts as a run time engine to run the java application.  JVM is the one of that actually call the main method that is present in the java class.  JVM  is a part of JRE(JAva runtime Environment).
+
+Java applications are also called WORA(write one time and run anytime/anywhere).  This means that a programmer can develop Java code on the one system and make us of it at any system.  
+
+When we compile any java file, .class files(contains byte code) with the same name as the .java file. It would be generated by the JVM only.  This involves multiple steps when we run the program.  These steps together describe the job of JVM.
+
+
+
+
+
+example:
+class Hello
+{
+}
+
+
+hello.java----->hello.class file---->bytecode
+
+CLASS LOADER:
+-------------
+It has three responsibilities:
+1.  Loading.
+2.  Linking.
+3.  Initialization.
+
+1  Loading:
+-----------
+The class loader read the .class file generated the corresponding byte data(01010101010) and save it  in the method area, then JVM stores the following information in the method area:
+
+-->The fully qualified name of the loaded class and its immediate parent class.
+-->Whether .class file is related to class or interface.
+-->Modifier, variables, and method information.
+
+**After loading of .class file, JVM create an object(predefined in java libarraby) of the type class  to represent this file in the heap memory.
+
+**These class object can be used by programmer for getting class level information like method name, class name, variable name and others.
+
+NOTE:  To get this information about object, we can use getclass() method.
+
+LINKING:
+-------
+It performs verification, preparation and resolution(optional).
+
+A.  VERFICATION:  It ensures the correctness of the .class file that is it checks whether this file is properly formatted or not and it checks the run time exception is there or not. 
+Once this activity is performed, the class is ready compilation process.
+
+B.  PREPARATION:  JVM allocates memory for class static variable and initializing the memory for default values.
+
+C.  RESOLUTION:  It is an optional field.  It is done by searching into method are to located referenced entity.
+
+
+3.  Initialization:
+-------------------
+In this phase, all the static variable will be assigned with their values  defined in the code and in the static block. This is execute from TOP to BOTTOM in the class and from parent to child class if any.
+
+NOTE:  In general, there are three types of class loaders:
+1.  Bootstrap class loader:  Every JVM implementation must have a bootstap class loader, it is capable of loading the class. It loads java aPI class present in the java library.
+2.  Extension class loader:  It is a child of bootstrap class loader. It loads the classes present in the extension directory.
+3.  System class loader:  This is the child of extension class loader. It has responsibility to laod class from the application class path.
+
+======================>
+JVM memory:
+It has 5 components:
+1. Method Area:  In the method area, all the class level information like classname, method name, parent class, child class, variables, etc are stored.  There are only one method are per JVM.   It is shared resource.
+
+2.  Heap Area:  Information of all the objects is stored in the heap area.  There is also one heap area per JVM. It is shared resource.
+
+3.  Stack Area:  For every thread, JVM create one run time stack which is used to store here. Every block of this stack is called as "Activation record"/stack frame which stores the methods/variable.  When the thread complete, memory will be destroyed.
+
+4.  PC registers: It stores the address of current execution instruction for each thread.
+
+5.  Native method area:  For each thread, there separate native stack is created. It stores the native method information.
+
+EXECUTION EGNINE:
+----------------
+IT execute the .class(byte code). It reads the byte code line by line, uses the data declared and information present in the program.
+
+A. Interpreter:  It interprets the byte code byline by line.  
+B.  Just in Time compiler:  Entire byte code at a time. It is used to increase the efficiency of interpreter.  It compiles the entire program at a single shot.
+C.  Garbage collector:  It destroyed unused referenced object.  
+
+JAVA NATIVE INTERFACE(JNI):
+It is the interface that interacts with native method libraries and provides the libraries for hte execution of code.
+
+Native method libraries:
+It is a collection of native libraries which is being required by execution engine. 
+
+=====================================
+This Keyword:
+
+This keyword is the reference variable that refers the current object.
+
+class A
+{
+int i;
+void m1()
+{
+int i;
+}
+}
+
+
+
+Usage of This keyword:
+1.  This can be used to refer current class instance variable.
+2.  This can be used invoke the current class method also.
+3.  This can be used to invoke the current class constructor.
+4.  This can be used to pass as an argument in the method call.
+5.  This can be used to pass as an argument in the constructor call.
+6.  This can be used to return the current class instance from the method.
+
+Example:
+class Test
+{
+int i;//instance
+void setValue(int x)
+{
+i=x;
+}
+void show()
+{
+sop(i)
+}
+
+public class hello1
+{
+psvm(String agrs[])
+{
+Test t=new Test();
+t.setValue(20);
+t.show();
+}
+}
+
+Program:
+package corejava;
+
+public class Thiskeyword {
+	public static void main(String[] args) {
+	Test t=new Test();
+	t.setValue(20);
+	t.show();
+	}
+}
+class Test
+{
+int i;//instance
+void setValue(int i) //20
+{
+this.i=i;
+}
+void show()
+{
+System.out.println(i);
+}
+}
+
+==========================================
+Super keyword:
+-------------
+The super keyword refers to superclass(parent) objects.  It is used to call superclass methods and to access the superclass constructor.  The most common use of the is super keyword is to eliminate the confusion between superclass and subclass that have same method name.
+
+Points:
+-------
+1.  Super keyword can be used to refer the immediate class instance variable.
+2.  Super keyword can be used to invoke immediate parent class method.
+3.  Super keyword can be used to invoke immediate parent class constructor.
+
+
+example:
+Class A extends B
+{
+void m1()
+{
+}
+}
+class B
+{
+void m1()
+{
+}
+
+Program:
+Class A
+{
+int a=10;
+}
+class B
+{
+int a=20;
+void show(int a)
+{
+syso(a);//?
+}
+main(String args[[])
+{
+B b1=new B();
+b1.show();
+}
+}
+
+Program:
+package corejava;
+class Naveen
+{
+	int a=10;
+}
+public class Superkeywod1 extends Naveen
+{
+	int a=20;
+	void show(int a)//30
+	{
+		System.out.println(a);
+		System.out.println(super.a);
+		System.out.println(this.a);
+	}
+	public static void main(String[] args) {
+		Superkeywod1 s1=new Superkeywod1();
+		s1.show(30);
+	}
+}
+
+
+===========================================================================
+Final keyword in java:
+----------------------
+The final keyword in java is used to restrict the user.  The java final keywodk can be used in many context.  Final can be used:
+1.  Variable.
+2.  Method.
+3.  Class.
+
+Final keyword can be applied with the above mentioned context.
+Lets understand why it is used for:
+1.  Stop the values to be changed.
+2.  Stop the method to be overridden.
+3.  Stop the class feature to be inherited.
+
+Example:
+Final keyword with variable:
+-----------------------------
+class Hello
+{
+main()
+{
+final int c=20;
+int d=c+20;//this will not be accepted
+syso(d);
+}
+}
+
+program:
+--------
+package corejava;
+
+public class Finalkeyword1 {
+public static void main(String[] args) {
+	 final int a=20;
+	int b=a++;// a cant be incremented due to final keyword
+	System.out.println("The value of b is "+b);
+}
+}
+
+
+2.  Final keyword with method
+-----------------------------
+class A
+{
+void eat()
+{
+syso("I am eating");
+}
+class B extends A
+{
+void eat()
+{
+syso("I am eating food);
+}
+main(String args[])
+{
+B b1=new B();
+b1.eat();
+}
+}
+
+program:
+package corejava;
+
+public class Finalkeyword2 extends how {
+	 void eat() //Final keyword
+{
+	System.out.println("I am eating");
+}
+public static void main(String[] args) {
+	Finalkeyword2 f1=new Finalkeyword2();
+	f1.eat();
+}
+}
+class how
+{
+	final void eat()
+	{
+		System.out.println("I am eating-Final keyoword");
+	}
+}
+---------------------------------------------
+
+
+2.  Final keyword with method
+-----------------------------
+This is used if you wanted to restrict the class to be inherited.
+
+Example:
+Final class A{
+void m1()
+{
+}
+}
+class B extends A// cannt inherit due to final keyword of A class
+{
+void m2()
+{
+
+}
+}
+
+Program:
+
+package corejava;
+
+public class Finalkeyword3 extends Parentclass{ //due to parent class as 'final', it can not be inherited
+void m2()
+{
+	System.out.println("m2 method");
+}
+public static void main(String[] args) {
+	Finalkeyword3 f2=new Finalkeyword3();
+	f2.m1();
+}
+}
+
+
+final class Parentclass
+{
+	void m1()
+	{
+		System.out.println("m1 method");
+	}
+}
+
+---------------------------------------------------------------------------
+Exception:
+Anything that is stopping your normal work, is called as excecption.
+
+Exception handling in java:
+  It is one of the powerful mechanism to handle the runtime errors, so that normal flow would be maintained.
+
+Example:
+class A
+{
+main()
+{
+syso(1)
+syo(2)
+syso(3)
+syso(4/0)
+--
+--
+--
+syso(10)
+}
+}
+
+Program:
+package corejava;
+
+public class Exceptionhandling1 {
+public static void main(String[] args) {
+	System.out.println(1);
+	System.out.println(2);
+	System.out.println(3);
+	System.out.println(4);
+	System.out.println(5/0);
+	System.out.println(6);
+	System.out.println(7);
+
+}
+}
+
+o/p:
+
+1
+2
+3
+4
+Exception in thread "main" java.lang.ArithmeticException: / by zero
+	at CoreJava11AM/corejava.Exceptionhandling1.main(Exceptionhandling1.java:9)
+
+
+Exception vs Errors:
+--------------------
+1.  Exception occurs because of our program mistake
+whereas
+    Error occurs because of some system configuration issue/resource issue.
+2.  Exceptions are recoverable that programmer has to handle them using try and catch block.
+whereas,
+    Error can't be recovered that is programmer has to handle them with the system level.
+3.  Exception are of two types:
+A.  Compile time exception or Checked exception
+B.  Run time exception or unchecked exceptions
+where as
+Error are of only one type:
+A.  Runtime exception or unchecked exception.
+------------------------------------
+
+Checked exception and unchecked exception:
+-----------------------------------------
+Difference btn checked and unchecked exception:
+1.  checked exception are the exceptions that are checked and handled at the compile time.  I mean to say that you file will highlight the error in eclipse.
+whereas,
+Unchecked exception are the exception that are not checked at the time of compilation.
+2.  Checked exception gives a completion error if a method throws the checked exception.
+whereas,
+The program compiles the file because the compiler will not catch the error.
+
+3. If some code within the method throws a checked exception, then the method must be handled the exception or it must specify the exception usin throws keyword.
+whereas,
+A method is not forced by compiler to declare as throw by its implementation.
+
+4.  A checked exception occur when the chances of failure is very hight.  
+where as,
+It occurs mostly due to programming mistake.
+
+5.  They are direct subclass of exception class but do not inherit from runtime exception.
+whereas, 
+They are direct subclass of Runtime exception class.
+
+How to handle??
+-==============
+we can able to handle exception with below keywords:
+1. Try.
+2. catch.
+3.  Finally.
+4.  Throw.
+5.  throws.
+
+1.  TRY CATCH BLOCK:
+--------------------
+Syntax:
+------
+try
+{
+risky code
+}
+catch(Exceptionclassname refname)
+{
+//handling code
+}
+
+NOTE:
+
+When we are getting exception--->Object would be created
+-->exception name
+-->reason
+-->line number of failure
+
+-------------------------------------------
+Rule convention for try and catch block:
+----------------------------------------
+1.  A try block must have at least one catch block.  If it does not have any catch block it will give u the error.
+2.  It can have two or more than two catch block but the upper block should be the subclass class and the later catch block can be your parent block:
+example:
+package corejava;
+
+public class Exceptionhandlingtrycatch3 {
+public static void main(String[] args) {
+	try
+	{
+	int a=10;
+	System.out.println("Hello check");
+	//int b=10/0;
+	System.out.println("Try block is being read");
+	}
+	catch(ArithmeticException e)//subblock
+	{
+		System.out.println(e);
+	}
+	catch(Exception e)//parent block
+	{
+		System.out.println(e);
+	}
+}
+}
+
+===================================================
+Finally: It is block of code which will mandatorily run after your try and catch block.
+
+USE:  It is used for cleaning up the data.  It is used to terminate file or release the service of resources.
+
+package corejava;
+
+import java.io.FileInputStream;
+
+public class ExceptionFinally4 {
+	public static void main(String[] args) {
+		FileInputStream fis;
+		try
+		{	System.out.println(1);
+			fis=new FileInputStream("D:/UIFullstack/12.txt");//compile time exceptoin
+			System.out.println(5/0);
+			System.out.println("I wll not be running if terminates");
+		}
+		catch(Exception e)
+		{   System.out.println("Catch is running due to exception in try");
+			System.out.println(e);
+		} 
+		finally
+		{  fis.close();
+		   System.out.println("Hello, I will be called for sure");
+		}
+	}
+
+Restrictions of finally block:
+----------------------------
+Your finally block would be restricted to call if any exit method is being called or run.
+example
+System.exit(n);
+
+NOTE:
+Difference between final and finally.
+
+
+
+Assessment for the day:
+1.  Please write a java logic for finding whether a number is prime number or not.
+2.  Write a java program to implement hierarchical inheritance.
+3.  Write logic to implement difference between final and finally.
+4.  Write a sample program for method overriding.
+5.  Write a sample code for parameterized constructor.
+
+Please share/upload the screenshot of answer by 1 pm on GitHub/email to javatraininghyd1@gmail.com.
+
+Topic for tomorrow session(online/Offline)
+An example for thorw and throws
+Multithreading
+
+
+==================================================
+Throw  and Throws:
+
+Throw:
+------
+-->this is a keyword.
+-->Used to explicitly to throw an exception from method or any block of code.
+-->Usually it throws runtime exception.
+
+syntax:
+------
+throw instance:
+package corejava;
+
+public class ThrowExample {
+	static double division(double a, double b)
+	{
+		if(b==0)
+		{
+		  throw new ArithmeticException("divide by 0");
+		  
+		}
+		return a/b;
+		
+	}
+
+	public static void main(String[] args) {
+		division(10, 2);
+	}
+}
+
+
+Throws:
+-------
+-->This is a keyword.
+-->Used in the signature of the method to indicate that method might occur.
+-->Usually it happened with checked exception
+
+Syntax:
+type methodname() throws Expection
+
+package corejava;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+
+public class ThrowsExample {
+  static void readFile() throws IOException    
+  {
+	  FileReader fl=new FileReader("D:\\UIullstack\\1.txt");
+       BufferedReader b1=new BufferedReader(fl);
+       for(int LineNum=0;LineNum<4;LineNum++)
+       {
+    	   b1.readLine();
+       }
+       b1.close();
+  }
+  /* void callmethod() throws IOException
+   {
+	   readFile();
+   }*/
+   public static void main(String[] args) throws IOException {
+	   readFile();
+}
+}
+
+
+=========================================================================
+
+MULTITHREADING:
+---------------
+-->Multitasking.
+-->Multiprocessing.
+-->Multithreading
+
+Multitasking:
+------------
+
+Doing multiple task at a time
+
+
+multiprocessing:
+-----------------
+When one system is connected to do multiple process in order to complete the task is called as multiprocessing.
+
+Multithreading:
+---------------
+
+Executing multiple tasks/components in order to complete the full task.
+(subprocess, small task, sub work)
+
+MULTITHREADING:
+WHY???
+
+To perform big task--->it easier to divide into smaller components of taks
+
+Example:
+class VLC
+{
+main()
+{
+Play p1=new play
+p1.makevideo();
+p1.playvideo();
+p1.playaudio();
+}
+class Play
+{
+void makevideo()
+{
+}
+void playvideo()
+{
+}
+void pausevideo()
+{
+}
+
+void playmusic()
+{
+}
+void subtitle()
+{
+}
+void pausemusic()
+{
+}
+void restartmusic()
+{
+}
+
+PROCESS VS THREAD:
+-----------------
+1. Definition:
+A program which is executing the task is called as process.
+Example:  Naveen is typing on the notepad.
+
+whereas,
+A thread is subpart of the process. Example, increasing the font of notepad, increasing the volume of music, decreasing the speed.
+
+2.  Context Switching:
+Process takes some more time.
+
+whereas,
+Thread takes less time.
+
+3.  Communication:
+Process takes more time,
+whereas,
+
+Thread takes less time.
+
+4.  Address space:  Each process will have different address space.
+where as each thread will have same address in particular process.
+
+5.  Dependency: Process are not dependent on each other.
+where as thread are dependent on each other.
+
+6.  Synchronization:  Process does not require synchronization.
+where as thread requires Synchronization.
+
+7.  Resource consumption:  Process have more resource consumption.
+Where as thread has less consumption.
+
+8.  Time to execute:  Process need more time,
+where as, thread takes fraction of seconds(less time).
+
+9. Time for termination:  Process takes more time,
+where as thread takes less time.
+
+=================================================================
+LIFE CYCLE OF THREADS:
+---------------------
+1.  Thread (class).
+2.  Runnable(interface)
+
+Class Thread
+{
+constructor
+methods like
+run()
+start()
+islive()
+getname()
+setname()
+etc
+}
+
+class Test extends Thread
+{
+public void run()
+{
+
+//is used to fetch action
+
+
+}
+public static void main(String args[])
+{
+   Test t1=new Test();
+   t1.start();
+
+  
+}
+
+Life cycle:
+Creation of thread---->Runnable method----->Run----->dead
+
+Program 1:
+package corejava.Multithreading;
+
+public class TestwithThread1 extends Thread
+{
+  public void run()
+  {
+	  System.out.println("This is my thread task");
+  }
+	
+public static void main(String[] args) {
+	TestwithThread1  t1=new TestwithThread1();
+	t1.start();
+}
+}
+
+
+-----
+Program 2:
+package corejava.Multithreading;
+
+public class TestwithThread2 implements Runnable {
+	//override method
+	public void run()
+	{
+		System.out.println("Thread task implmented");
+	}
+	public static void main(String[] args) {
+		TestwithThread2 t1=new TestwithThread2();
+		Thread th=new Thread(t1);
+		th.start();
+	
+	}
+
+}
+
+============================================================
+
+Scenario for thread:
+1. Implementation of single task with single thread:  DONE
+2. Implementation of multiple task with single thread.
+3.  Implementation of single task with multiple thread.
+4.  Implementation of multiple task with multiple threads.
+
+2:  Implementation of single task with multiple thread.
+
+class Test extends Thread
+{
+public void run()
+{
+syso("Single task execution");
+}
+main()
+{
+Test t1=new Test();
+t1.start();
+Test t2=new Test();
+t2.start();
+}
+}
+
+======================
+Implementation of multiple task with multiple threads.
+
+example:
+class Test1 extends Thread
+{
+public void run()
+{
+}
+}
+class Test2 extends Thread
+{
+public void run()
+{
+}
+}
+public class Hello
+{
+main()
+{
+Test1 t1=new Test1();
+t1.start();
+Test1 t2=new Test1();
+t2.start();
+Test2 tt1=new tes2();
+tt1.start();
+Test2 tt2=new test2();
+tt2.start()
+}
+
+Program:
+package corejava.Multithreading;
+//This is for multiple task with multiple threads
+class Test1 extends Thread
+{
+	public void run()
+	{
+		System.out.println("Task 1 executed");
+	}
+}
+class Test2 extends Thread
+{
+	public void run()
+	{
+		System.out.println("Task 2 is executed");
+	}
+}
+
+public class TestwithThread4 {
+	public static void main(String[] args) {
+		Test1 t1=new Test1();
+		t1.start();
+		Test1 t2=new Test1();
+		t2.start();
+		Test2 t3=new Test2();
+		t3.start();
+		Test2 t4=new Test2();
+		t4.start();
+		
+		
+	}
+
+}
+
+Program:
+
+package corejava.Multithreading;
+//This is for multiple task with multiple threads
+class Test1 extends Thread
+{
+	public void run()
+	{
+		System.out.println("Task 1 executed by:  "+Thread.currentThread().getName());
+	}
+}
+class Test2 extends Thread
+{
+	public void run()
+	{
+		System.out.println("Task 2 is executed by: "+Thread.currentThread().getName());
+	}
+}
+
+public class TestwithThread4 {
+	public static void main(String[] args) {
+		System.out.println("Hello:  "+Thread.currentThread().getName());
+		Thread.currentThread().setName("RohitThread");
+		System.out.println(Thread.currentThread().getName());
+		Test1 t1=new Test1();
+		t1.start();
+		System.out.println(Thread.currentThread().isAlive());
+		Test1 t2=new Test1();
+		t2.start();
+		Test2 t3=new Test2();
+		
+		t3.start();
+		Test2 t4=new Test2();
+		t4.start();
+		
+	}
+
+}
+
+======================================================================
+
+Daemon Method:
+--------------
+Definition:  It is used to run the task in the background.
+Use:  It would provide services to some other thread.
+Example:  helo/Spelling checker, garbage collector, finalizer etc
+Methods:  setDaemon(Boolean a)
+          isDaemon()
+
+class Test extends Thread
+{
+public void run()
+{
+syso(task);
+}
+main(String args[])
+{
+Test t=new Test();
+t.setDaemon(true);
+t.start();
+}
+}
+
+Rules:
+1.  Daemon method will always provide service to the parent thread.
+2.  Daemon method will always declared with setDaemon() method before it is called.
+3.  Can we make main method/thread as Daemon method??  Never ever, since your prg execution starts with main method.
+4.  Nature of Daemon thread:  It will inherit the property of its parent thread.
+5.  Daemon method will run if there is any statement or action provided in the parent thread/method
+
+Program:
+package corejava.Multithreading;
+
+public class TeswithDaemonThread extends Thread {
+public void run()
+{
+	System.out.println(Thread.currentThread().isDaemon());
+	if(Thread.currentThread().isDaemon()==true)
+	{
+	System.out.println("This is Daemon task");
+    }
+	else
+		System.out.println("This is not a daemont task");
+  }
+public static void main(String[] args) {
+	System.out.println("This is main thread");
+	TeswithDaemonThread t1=new TeswithDaemonThread();
+	t1.start();
+	TeswithDaemonThread t2=new TeswithDaemonThread();
+	t2.setDaemon(true);
+	t2.start();
+	
+}
+}
+
+
+
+-======================================
+Thread with priorities:
+-----------------------
+How many priorities:  1 to 10
+Keyword which is allowed priority:
+1.  MIN_Priority.
+2.  MAX_priority.
+3.  NORM_priority
+
+USE:  JVM will execute the thread based on the priority wise
+Example:
+
+Thread with 9
+Thread with 8
+Thread with 0//
+Thread with 5
+Thread with 2
+
+NOTES:
+1.  Priorities depends on the platform that u uses(window does have proper support).  It totally depend on Machine/JVM/thread scheduler.
+
+2.  Methods:  setPriority()
+              getPriority()
+
+3.  By default main thread has priority of 5.
+4.  All the depended thread will have also the same priority parent(main mthread).
+
+Some of the invalid priorities that might asked in interview:
+1.  0, <1, >10
+2.  Minimum_priority
+3.  Maxiumum_priority
+4.  LOw priority.
+5.  Midium priority.
+6.  High_priority
+
+Syntax/Example:
+
+class Test extends Thread
+{
+public void run()
+{
+syso(text)
+}
+main()
+{
+Test t=new Test();
+sop(t.getPriority());//5
+t.start();
+}
+
+
+---->
+program1:
+package corejava.Multithreading;
+
+public class TestwithPrioritythread5 extends Thread {
+  public void run()
+  {
+	  System.out.println("Child thread");
+  }
+  public static void main(String[] args) {
+	  System.out.println(Thread.currentThread().getPriority());
+	  Thread.currentThread().setPriority(8);
+	  System.out.println(Thread.currentThread().getPriority());
+	  TestwithPrioritythread5 t=new TestwithPrioritythread5();
+	  System.out.println(t.getPriority());
+	  t.setPriority(9);
+	  System.out.println(t.getPriority());
+	  t.start();
+}
+}
+---->
+program2:
+package corejava.Multithreading;
+
+public class TestwithPrioritythread6 extends Thread {
+  public void run()
+  {
+	  System.out.println("child thread");
+	  
+  }
+  public static void main(String[] args) {
+	  System.out.println(Thread.currentThread().getPriority());
+	  TestwithPrioritythread6 t1=new TestwithPrioritythread6();
+	  Thread.currentThread().setPriority(MIN_PRIORITY);
+      System.out.println(Thread.currentThread().getPriority());
+      t1.start();
+      TestwithPrioritythread6 t2=new TestwithPrioritythread6();
+      System.out.println(t2.getPriority());
+  }
+}
+
+=============================================
+Sleep method()
+--------------
+It will wait for certain amount of time to restart the execution.
+
+Method:  sleep(time);
+
+Example:
+class test extends Tread
+{
+public void run()
+{
+syso(child thread)
+Thread.sleep(10000);
+syso(Execution completed);
+}
+main()
+{
+Test t=new Test();
+t.start();
+}
+
+Program1:
+package corejava.Multithreading;
+
+public class Testwithsleepthread7 extends Thread {
+	public void run()
+	{
+		System.out.println("How are you");
+		try {
+			Thread.sleep(40000);
+		
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+		System.out.println("I am doing great");
+	}
+    public static void main(String[] args) {
+    	Testwithsleepthread7 t=new Testwithsleepthread7();
+    	t.start();
+    
+	}
+
+}
+
+---->
+program2:
+package corejava.Multithreading;
+
+public class TestwithSleepThread9 extends Thread {
+  public void run()
+  {
+	  try {
+		  for(int i=1;i<=5;i++)
+		  {
+			  System.out.println(i+"  "+Thread.currentThread().getName());
+			  Thread.sleep(10000);
+		  }
+	  }
+	  catch(Exception e)
+	  {
+		  System.out.println(e);
+	  }
+  }
+  public static void main(String[] args) {
+	  TestwithSleepThread9 t1=new TestwithSleepThread9();
+      t1.start();
+      TestwithSleepThread9 t2=new TestwithSleepThread9();
+      t2.start();
+      
+  }
+}
+
+===========================
+Yield method:
+-------------
+This method is used to stop their execution and give a chance to other thread for execution.
+
+Example
+
+mainthread
+thread 0
+thread 1
+
+Working process:
+---------------
+After the java5 version:  Thread provides the hint to the JVM/Threadscheduler to let them know that that thread can stop execution and give chance to other thread.  BUT it depends on the threadscheudler whether he accepts the request or rejects
+ 
+Method:  yield() method
+
+Example:
+--------
+class Test extends Thread
+{
+public void run()
+{
+for(int i=1;i<=5;i++)
+{
+syso(i, currentthread)
+}
+}
+main()
+{
+TEst t=new Test();
+t.start();
+for(int i=1;i<=5;i++)
+{
+Thread.yield();
+syso(i, currentthread)
+}
+]
+
+Program:
+package corejava.Multithreading;
+
+public class TestwithYieldThread10 extends Thread {
+	public void run()
+	{   
+		for(int i=1;i<=5;i++)
+		{   
+			System.out.println(i+"  "+Thread.currentThread().getName());
+		}
+	}
+	public static void main(String[] args) {
+		TestwithYieldThread10 t=new TestwithYieldThread10();
+		t.start();
+		for(int i=1;i<=5;i++)
+		{   
+			Thread.yield();
+			System.out.println(i+"  "+Thread.currentThread().getName());
+		}
+	}
+
+}
+
+=========================================================================
+
+JOIN:  If thread wanted to wait for another thread to be execute to complete its task , than we can use join method.
+
+Example:
+Licence purpose
+
+Medical examination -->Thread 1
+Test drive --->Thread 2
+Licence Release---->Thread 
+
+Method: void join();
+
+Example:
+class Test extends Thread
+{
+public void run()
+{
+   try
+    {  
+      for(int i=11;i<=5;i++)
+      {
+       SOP(Child thread +i)
+        Thread.sleep(10000)
+     }
+      catch(Execption e)
+      {
+       sop(e)
+      }
+   }
+main()
+{
+   Test t=new test();
+   t.join();
+   t.start();
+}
+]
+
+Program1:
+package corejava.Multithreading;
+
+public class TestwithJointhread11 extends Thread{
+ public void run()
+ {   
+	
+	 try
+	 {   
+		 Thread.currentThread().join();
+		 for(int i=1;i<=5;i++)
+		 {
+			 System.out.println("Child thread: "+i);
+		     Thread.sleep(10000); 
+		 }
+	 }
+	 catch(Exception e)
+	 {
+		 System.out.println(e);
+	 }
+ }
+ public static void main(String[] args) throws InterruptedException {
+	TestwithJointhread11 t=new TestwithJointhread11();
+	//Thread.currentThread().join();
+	t.start();
+    
+	//t.join();
+	try
+	{
+		for(int i=1;i<=5;i++)
+		 {
+			 System.out.println("Main thread: "+i);
+		     Thread.sleep(10000); 
+		 }
+	}
+		catch(Exception e)
+		{
+			System.out.println(e);
+		}
+	
+	
+}
+}
+=-====>Program2
+package corejava.Multithreading;
+
+public class TestwithJointhread11 extends Thread{
+ public void run()
+ {   
+	
+	 try
+	 {   
+		 //Thread.currentThread().join();
+		 for(int i=1;i<=5;i++)
+		 {
+			 System.out.println("Child thread: "+i);
+		     Thread.sleep(10000); 
+		 }
+	 }
+	 catch(Exception e)
+	 {
+		 System.out.println(e);
+	 }
+ }
+ public static void main(String[] args) throws InterruptedException {
+	TestwithJointhread11 t=new TestwithJointhread11();
+	//Thread.currentThread().join();
+	t.start();
+    
+	t.join();
+	try
+	{
+		for(int i=1;i<=5;i++)
+		 {
+			 System.out.println("Main thread: "+i);
+		     Thread.sleep(10000); 
+		 }
+	}
+		catch(Exception e)
+		{
+			System.out.println(e);
+		}
+	
+	
+}
+}
+
+--------------------
+Program 3:
+
+package corejava.Multithreading;
+
+class MedicalExamination extends Thread
+{
+	public void run()
+	{
+		
+		try
+		{
+			System.out.println("Medical examination started");
+			Thread.sleep(3000);
+			System.out.println("Medical examination completed");
+	    }
+		catch (InterruptedException e)
+		{
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+	    }
+	}
+}
+class TestDrive extends Thread
+{
+	public void run()
+	{
+		
+		try
+		{
+			System.out.println("TestDrive started");
+			Thread.sleep(3000);
+			System.out.println("TestDrive completed");
+		}
+		catch (InterruptedException e) 
+		{
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+     }
+}
+	class LicenceRelease extends Thread
+	{
+		public void run()
+		{
+			
+			try 
+			{
+				System.out.println("Release is started");
+				Thread.sleep(3000);
+				System.out.println("Release is  completed");
+			} catch (InterruptedException e) 
+			{
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+	}
+	}
+
+public class TestwithJoinThread12 {
+	public static void main(String[] args) throws InterruptedException {
+		MedicalExamination m1=new MedicalExamination();
+		m1.start();
+		m1.join();
+		TestDrive t1=new TestDrive();
+		t1.start();
+		t1.join();
+		LicenceRelease l1=new LicenceRelease();
+		l1.start();
+	}
+}
+
+
+-=============================================================
+interrupted:
+------------
+Methods:  interrupted()
+          isinterrupted()
+
+Example: If thread is running ---->true(thread)
+
+It will run ur try block
+
+Unfortunately, something went run---->Catch(exception)
+
+Rules:
+-------
+1.  interrupted() method is used to check whether a thread is interrupted or not -->Boolean--->either true or false
+method is used to clear the interrupted status from true to false if thread is interupeted
+2.  isinteruppted() this is used to check whether a thread is interrupted or not---->it will never change the status of interruption.
+
+
+Status---->TRUE
+
+interrupted()---->True will become False
+istreuuptred()---->True will be same as True
+
+Example:
+Class Test extends Thread
+{
+public void run()
+{ 
+try
+{
+for(int i=1;i<5;i++)
+{
+sop(i)
+Thread.sleep();
+}
+}
+catch(Exception e)
+{
+sop(e)
+}
+}
+
+main()
+{
+Test t=new Test();
+t.start();
+t.interuppted();
+
+
+Program:
+
+package corejava.Multithreading;
+
+public class TestwithInteruptedThread13 extends Thread
+{
+	 public void run()
+	 {   
+		 System.out.println("Status is: "+Thread.interrupted());//False-->True
+		 System.out.println(Thread.currentThread().isInterrupted());
+		 //Thread.currentThread().interrupt();
+		 System.out.println(Thread.currentThread().isInterrupted());
+		 try
+		 {
+			 for(int i=1;i<5;i++)
+			 {
+				 System.out.println(i);
+				 Thread.sleep(2000);
+				Thread.currentThread().interrupt();
+			 }
+		 }
+		 catch(Exception e)
+		 {
+			 System.out.println(e);
+			 
+		 }
+	 }
+  public static void main(String[] args) {
+	  TestwithInteruptedThread13 t1=new TestwithInteruptedThread13();
+	  t1.start();
+	  System.out.println("--------mainthread----"+Thread.interrupted());
+	  //t1.interrupt();
+}
+}
+
+=============================================================
+Synchronization is multithreading:
+It is a process by which we can control the accessibility of the multiple threadd to a particular share resource.
+
+Advantages:
+No data inconsistency problem will occur.
+No thread interference.
+
+package corejava.Multithreading;
+
+class BookTheaterSeat
+{
+	int total_seats=20;
+	synchronized void bookSeat(int seats)
+	{  
+		System.out.println("-----------------------------");
+		if(total_seats>=seats)
+		{
+			System.out.println(seats+" Ticket booked successfully");
+			total_seats=total_seats-seats;
+			System.out.println("Seats left now: "+total_seats);
+		}
+		else
+		{
+			System.out.println("Sorry, seats are not available");
+			System.out.println("Only available seats are: "+total_seats);
+		}
+	}
+}
+
+public class TestwithSyncronization extends Thread
+{
+  static BookTheaterSeat b;
+  int seats;
+  public void run()
+  {
+	  b.bookSeat(seats);
+  }
+  public static void main(String[] args) {
+	b=new BookTheaterSeat();
+	TestwithSyncronization vardhan=new TestwithSyncronization();
+	vardhan.seats=5;
+	vardhan.start();
+	TestwithSyncronization aadi=new TestwithSyncronization();
+	aadi.seats=10;
+	aadi.start();
+	
+}
+}
+
+=======================
+Synchronize block:
+Incase if we dnt want to hold my entire method to be waited and if I wanted to release few of the statement that is not very dependent for the logic, we may use synchronized block.
+
+Only put, required/dependent block of statement in the synchronized block.
+
+example:
+
+package corejava.Multithreading;
+
+class BookTheaterSeat
+{
+	int total_seats=20;
+	void bookSeat(int seats)
+	{  
+		System.out.println("-----------------------------");
+		System.out.println("Welcome to movie ticket booking");
+		System.out.println("-----------------------------");
+		System.out.println("-----------------------------");
+		System.out.println("hi:  "+Thread.currentThread().getName());
+		System.out.println("hi:  "+Thread.currentThread().getName());
+		System.out.println("hi:  "+Thread.currentThread().getName());
+		System.out.println("hi:  "+Thread.currentThread().getName());
+		
+		synchronized(this)
+		{
+		if(total_seats>=seats)
+		{
+			System.out.println(seats+" Ticket booked successfully");
+			total_seats=total_seats-seats;
+			System.out.println("Seats left now: "+total_seats);
+		}
+		else
+		{
+			System.out.println("Sorry, seats are not available");
+			System.out.println("Only available seats are: "+total_seats);
+		}
+		}
+		System.out.println("-----------------------------");
+		System.out.println("-----------------------------");
+		System.out.println("-----------------------------");
+		System.out.println("hi:  "+Thread.currentThread().getName());
+		System.out.println("hi:  "+Thread.currentThread().getName());
+		System.out.println("hi:  "+Thread.currentThread().getName());
+		System.out.println("hi:  "+Thread.currentThread().getName());
+		
+	}
+}
+
+public class TestwithSynchronizedmethodthread14 {
+
+
+  static BookTheaterSeat b;
+  int seats;
+  public void run()
+  {
+	  b.bookSeat(seats);
+  }
+  public static void main(String[] args) {
+	b=new BookTheaterSeat();
+	TestwithSyncronization vardhan=new TestwithSyncronization();
+	vardhan.seats=5;
+	vardhan.start();
+	TestwithSyncronization aadi=new TestwithSyncronization();
+	aadi.seats=10;
+	aadi.start();
+	
+}
+}
+
+
+
+==============================
+
+Scanner:
+
+It is the predefined class in java library which is used to take the input from the keyboard/user.
+
+Syntax:
+Scanner <objec>=new Scanner(System.in)
+Example:
+Scanner s=new Scanner(System.in)
+String name=s.next();
+
+Male
+0123
+
+Program:
+package Scanner;
+
+import java.util.Scanner;
+
+public class ScannerInputfromUser {
+public static void main(String[] args) {
+	Scanner s=new Scanner(System.in);
+	System.out.println("Enter your name: ");
+	String name=s.next();
+	System.out.println("Enter your roll Number: ");
+	int roll=s.nextInt();
+	System.out.println("Enter your gender");
+	char gender=s.next().charAt(0);
+	System.out.println("Enter your phone number: ");
+	long phonenumber=s.nextLong();
+	System.out.println("-----Welcome to the Report-----");
+	System.out.println("Name of the student: "+name);
+	System.out.println("Roll number of the student: "+roll);
+	System.out.println("Gender of the student: "+gender);
+	System.out.println("Contact number of student: "+phonenumber);
+	System.out.println("-----End of the Report--------");
+	
+}
+}
+
+==================================
+String:
+String name="Naveen";
+name.concat("Kumar");
+syso(name)
+NaveenKumar
+
+Stringbuffer name=new Stringbuffer("Naveen");
+name.concat("Kumar")
+
+
+package StringStringbufferStringBuilder;
+
+public class Stringbufferclass {
+public static void main(String[] args) {
+	//1. StringBuffer sb=new StringBuffer();
+	//System.out.println(sb.capacity());
+	//2.  StringBuffer sb=new StringBuffer("Naveen");
+	//System.out.println(sb.capacity());
+	//3.  StringBuffer sb=new StringBuffer(1000);
+	//System.out.println(sb.capacity());
+	StringBuffer sb=new StringBuffer("Naveen Kumar");
+	//System.out.println(sb.length());
+	//System.out.println(sb.append("K"));
+	//System.out.println(sb.length());
+	//System.out.println(sb.charAt(2));
+	//System.out.println(sb.delete(2, 5));
+	//System.out.println(sb.deleteCharAt(1));
+	System.out.println(sb.insert(2, "oooo"));
+		
+	
+	
+}
+}
+
+---------------
+package StringStringbufferStringBuilder;
+
+public class StringbufferclassEqual {
+	public static void main(String[] args) {
+		//String s1="Naveen";
+		//String s2=s1.concat("Kumar");
+		//System.out.println(s1.equals(s2));
+		//System.out.println(s1);
+		//System.out.println(s1.concat("Kumar"));
+		StringBuffer s1=new StringBuffer();
+		//StringBuffer s2=s1.append("Kumar");
+		//System.out.println(s1.equals(s2));
+		System.out.println(s1.capacity());
+		s1.ensureCapacity(100);
+		s1.append("hello");
+		System.out.println(s1.capacity());
+		s1.trimToSize();
+		System.out.println(s1.capacity());
+		
+		
+	}
+
+}
+
+--------------
+package StringStringbufferStringBuilder;
+
+public class StringBuilderclass {
+	public static void main(String[] args) {
+		StringBuffer sb=new StringBuffer();
+		StringBuilder sb1=new StringBuilder();
+				/*Almost all the methods are same, but the difference
+		want to make it is "Synchronized method in Stringbuffer,where as 
+		not synchronized in the Stringbuilder */
+	}
+
+}
+
+--------------------------------------------------------------------
+
+Array:   An array is an object that holds a fixed number of values of homogeneous(similar) data types.
+
+Or we can say that Array is a data structure where we store similar elements.
+
+-->The length of array is assigned when the array are created and after creation of array, it is fixed.
+
+Example:
+
+int emp_id1=101;
+int emp_id2=102;
+int emp_id3=103;
+
+--
+---
+int emp_id3=100;
+
+int empid[]=new int[5]
+
+-->It will create an array of length 5 and index values start from 0th to 4th
+
+Features of Array:
+------------------
+1.  An array variable can be declared like other variable with [] after the data type.
+like 
+int empid[], int []empid.
+
+2.  The variable in the array are ordered and each have an index beginning with 0.
+3.  In java, Array are objects and thus they must occupy some memory(Heap Area).
+4.  The direct superclass of an array is object.
+5.  They are always created at runtime.
+6.  The length of the array can be find by using member "length".
+7.  The elements of the array are stored in the consecutive memory location.
+
+Advantages of an Array:
+-----------------------
+1. We can save the memory.
+2. Accessing the variable values became easy.
+3.  Array can be used to store multiple data items of the same type by using variable.
+
+
+Disadvantage:
+--------------
+1.  Fixed length:  We need to mention the size of array in before itself at the time of declaration.
+2.  Nature:  It accepts only homogeneous type of data.
+3.  Performance:  The elements of array are stored in consecutive memory location.
+thus, if we delete any element in the middle, it would be difficult to traverse..
+4.  It does not have any proper method to remove array or add array element.
+
+Single Dimensional Array:
+--------------------------
+1. Different way of declare the arrays:
+int []a;
+int a[];
+int [] a;
+2.  We will mostly prefer to use like int[]a.
+
+
+Multidimensional Array:
+-------------------------
+
+It means that we are using multiple rows and multiple columns then it is called as multidimensional array.
+
+2-D array:
+
+WE can represent 2-d array as follows:(Refer in diagram):
+
+Features:
+---------
+Declaration:  We can declare 2D array with below ways:
+1.  int [][]a
+2.  int [][] a;
+3.  int []a[];
+
+Most preferred in java is int a[][] or int [][]a.
+
+Please find some the arrays to see whether it is 2D, 1D, or variable
+
+a.  int [][]a, b;===>both a and b are 2D array
+b.  int[]a, b;   ==>a is 1D ararray and b is variables.
+c.  int [][]a, b[],
+d.  int [][][]a;
+
+Example of declaration
+
+int [][]a;//declaration
+int [][]a={{3,4,5}{3, 5}}
+a[0][0]=1
+
+Programs:
+package Array;
+
+public class Array1Dimentional {
+public static void main(String[] args) {
+	int a[]=new int[3];
+	System.out.println("Hello Array");
+	a[0]=10;
+	a[1]=11;
+	a[2]=12;
+	//a[3]=14;  out of size/bound
+	System.out.println("Hello Array");
+}
+
+}
+------
+Program 2:
+
+package Array;
+
+public class Array1Dimentiaonal1 {
+	public static void main(String[] args) {
+		//int a[]=new int[10];
+		int[] a= {1, 2, 10, 20, 30, 40, 50};
+		for(int i=0;i<a.length;i++)
+		{
+			System.out.println(a[i]);
+		}
+	}
+
+}
+
+
+-------
+Program 3:
+package Array;
+
+public class TwoDarray1 {
+	public static void main(String[] args) {
+		int a[][]= {{10, 20, 30}, {20, 30, 20}, {30, 80}};
+		//System.out.println(a);
+		//System.out.println(a[0][1]);
+		//System.out.println(a[1][0]);
+		//System.out.println(a[3][3]);
+	//	System.out.println(a[0].length);
+		for(int i=0;i<a.length;i++)
+		{
+			for(int j=0;j<a[i].length;j++)
+			{
+				System.out.print(a[i][j]+ " ");
+			}
+			System.out.println();
+			
+		}
+	
+	}
+
+}
+
+
+===============================================
+Encapsulation:
+It is the feature of OOPs concept where we are wrapping the data variable 
+and the method together in the single unit.
+
+How do we achieve encapsulation:
+
+1. Make the data variable as PRIVATE.
+2.  Need to make use of two methods in public:  getmethod() and setmethod()
+
+
+Program:
+package OOPs;
+
+public class Encapsulationhandling {
+//data private
+	private int empid;
+	public void setEmpid(int eid)
+	{
+		empid=eid;
+	}
+	public int getEmpid()
+	{
+		return empid;
+	}
+	public static void main(String[] args) {
+		Encapsulationhandling e1=new Encapsulationhandling();
+		e1.setEmpid(101);
+	System.out.println(e1.getEmpid());
+	}
+}
+
+Enum:
+-----
+In java, all the enumeration types are implicitly subclass of predefined class called Enum.
+
+Example:
+package OOPs;
+
+public class Enumclass {
+enum days {sunday, monday, tuesday, wednesday, thursday, friday, saturday}
+public static void main(String[] args) {
+	days day1=days.sunday,day2=days.monday;//you can assign other valuues also.
+	System.out.println("The first day is "+day2.ordinal());
+}
+}
+
+
+============================================
+
+Filemismatch:  This is the method which is used to match the content of the files.
+
+package OOPs;
+
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+
+public class Mismatchfile {
+public static void main(String[] args) throws IOException {
+	System.out.println("Hello");
+	Path file1=Files.createTempFile("hfile1", ".doc");
+	Path file2=Files.createTempFile("hfile2", ".doc");
+	Files.writeString(file1, "Hello worl");
+	Files.writeString(file2, "Hello worlderserfsdrds");
+	long result=Files.mismatch(file1, file2);
+    System.out.println(result);
+    if(result>-1L)
+    {
+    	System.out.println("File mismatch");
+    }
+    else
+    	System.out.println("File matched");
+
+}
+}
+
+==========================================
+WRAPPER CLASSES IN JAVA:
+
+It is used to convert the primitive data type into the object vice-versa.
+
+Autoboxing:
+It is used to convert the primitive data type into the objects.
+
+Unboxing:
+It is used to convert the Object into the primitive data type.
+
+Primitive data types:
+---------------------
+byte
+char
+short
+int
+float
+double
+long
+Boolean
+
+Example:
+class wrapper
+{
+psvm(string[]arg]
+{
+int i=10;//primitive data type
+Integer ab=Integer.valueof(i);//convert into the object
+or
+Integer ab=i; //autoboxing
+sop(ab);
+}
+
+-------->
+class wrapper
+{
+psvm(String args[])
+{
+Integer i=new Integer(10);
+int j=i.intValue();//manual
+int j=i;
+sop(j);
+}
+
+WHY WE DO NEED WRAPPER CLASS IN JAVA:
+1.  It is used to covert into primitive to object and vice versa.  Since, in java realtime, its all used in object form.
+2.  In collection framework or data structure analytics work on the object.
+3.  Generic does not allow you data type.
+4.  Multithreading need object to support the synchronization.
+
+Program:
+package Wrapper;
+
+public class WrapperclassexAutoboxing {
+	public static void main(String[] args) {
+		int i=10;
+		//Integer ab=Integer.valueOf(i);  Manual flow
+		Integer ab=i; //Autoboxing
+		System.out.println(ab);
+		System.out.println(i);
+	}
+
+}
+-------------
+Program 2:
+package Wrapper;
+
+public class WrapperUnboxing {
+	public static void main(String[] args) {
+		Integer ab=new Integer(21);
+		//int i=ab.intValue();
+		int i=ab;
+		System.out.println(i);
+	}
+
+}
+
+===================================================
+
+Lambda Expression in java:
+--------------------------
+1. Lambda expression are new feature added from java 8.
+2. The main objective of lambda expression is to bring the benefit of functionality expression.
+3. Lambda expression is just an anonymous function that means the function which dooes not have name, return type and access modifier.
+4. A java lambda expression is a function which can be created without belonging to any class.
+
+HOW TO CONVERT NORMAL METHOD TO THE LAMBDA EXPRESSION?
+HOW TO CONVERT METHOD WITH PARAMETER TO THE LAMDA EXPRESSION?
+
+
+Syntax:
+-------
+1.  Normal method(zero parameter)
+
+example:
+void m1()
+{
+sop("This is m1 method)
+}
+
+How to convert into the lambda expression:
+()->{
+sop("This is m1 method)
+}
+
+example2:
+void m2(int a, int b)
+{
+syso("This is parameterized method");
+}
+
+Program:
+package LambdaExpression;
+
+interface I
+{
+	void m1();
+	//void m2();
+}
+
+public class Lambdaexpression1  {
+public static void main(String[] args) {
+//how to write lamda expression for m1 method
+	I ob=()->
+			{
+				System.out.println("I am a lambda for m1 method");
+			};
+		ob.m1();	
+	
+}
+}
+----------------
+package LambdaExpression;
+
+interface Hello
+{
+	void m1(int a, int b);
+}
+
+
+public class Lamdaexpression2 {
+	public static void main(String[] args) {
+		Hello h1=(int a, int b)->
+		{
+			System.out.println(a+b);
+		};
+		h1.m1(10, 20);
+		Hello h2=(int a, int b)->
+		{
+			System.out.println(a*b);
+		};
+		h2.m1(10, 20);
+	}
+
+}
+
+==================================
+
+How to convert into the lambda expression
+(int a, int b)->{
+syso("This is parameterized method");
+}
+
+====================================================
+Collection:
+-----------
+
+int a=10, 20;
+
+It is the single entity or object which will store multiple data.
+
+Framework:  It represent the library.
+
+Collection framework:
+---------------------
+It is the set of predefined classes and interfaces which is used to store multiple records.
+
+Collection
+
+
+REFER the image diagram for category:
+
+List and Set:
+-------------
+List and Set both are interface.
+
+Difference between List and Set:
+1.  List is an index based data structure,
+where as 
+Set is not an index based data structure.  It stores the data in the hashcode format
+
+2.  It can store duplicate element.
+where as,
+Set cannt store any duplicate element.
+
+3.  List can store any number of null values.
+where as,
+Set can accept only one null value.
+
+4. List can follows the insertion order.
+where as,
+Set does not follow any insertion order.
+
+
+Program:
+??
+
+
+=====================================
+
+Iterator
+--------
+
+1.  We can get the iterate cursor by iterator() method.
+2.  Iterator cursor can be used with any collection object.
+3.  Iterator methods are hasNext(), next(), remove() etc.
+4.  By using iterator cursor, only we move in forward direction.
+5.  By using iterator cursor, we can able to remove the elements.
+
+ListIterator:
+-------------
+1.  we can get the listiterator cursor by using list iterator method().
+2.  ListIteraror can be used only with list implemented classes like arraylist, linkedlist etc
+3.  Listterator methods are hasnext(), next(), previous(), removet, set() etc.
+4.  By using Listiterator we can retrieve the element both in forward or backword direction.
+5.  By using Listiterator cursor, we can do remove, replace and read elemnt.
+
+
+===========================================================================
+ARRAYLIST:
+----------
+An arraylist is an implemented class of an List interface which is present in the java.util ackage.
+
+Syntax:
+------
+package java.util.*;
+
+class Arraylist implments List
+{
+methods()
+constructor()
+
+}
+
+Properties of Arraylist:
+------------------------
+1. Arraylist are index based data structure.
+2.  Arraylist can store different data type or heterogenous data type.
+3.  Arraylist can store duplicate values.
+4.  Arraylist will accept null values.
+5.  Arraylist follows the insertion order.
+6.  Arraylist are non-synchronized.
+7.  Arraylist does not follow any sorting order.
+
+Few methods that we can practice are below:
+------------------------------------------
+add()
+addall()
+remove()
+clear()
+contains()
+sort()
+set()
+get()
+etc
+
+Example:
+package Collection;
+import java.util.*;
+
+public class Arraylistexample {
+	public static void main(String[] args) {
+		ArrayList al=new ArrayList();
+		al.add(10);
+		al.add(1, 20);
+		al.add("Java");
+		al.add(null);
+		al.add('c');
+		al.add("Java");
+		al.add(null);
+		ArrayList al1=new ArrayList(al);
+		al1.add(30);
+		System.out.println(al1);
+		al1.clear();
+		al1.add("naveen");
+		System.out.println(al1);
+		
+		
+		
+	}
+
+}
+
+LINKED LIST:
+-----------
+Linked list is an implemented class of list interface that is present in java.util package
+
+The below data structure of linked list is called as doubly linked list or circular linked list data.
+
+example: see image attached.
+
+Advantage of LinkedList:
+------------------------
+1. Insertion or deletion would be efficient and faster.
+2. We can traverse the list in forward and backward direction both the way.
+
+
+Disadvantage of linked list:
+----------------------------
+It does take some extraspace for previous node address.
+2.  In case of insertion or deletion in between, we have manage the previous and next node.
+
+PROPERTIES OF linked list:
+---------------------------
+1.  Linked list are index based data structure.
+2.  Linked list can store heterogeneous element with different data types.
+3.  Linked list can store duplicate elements.
+4.  Linked list can store multiple null values.
+5.  Linked list follows the insertion order.
+6.  Linked list does not follow the sorting order.
+
+package Collection;
+import java.util.*;
+
+public class Linkedlistcollection {
+	public static void main(String[] args) {
+		ArrayList al1=new ArrayList();
+		al1.add(20);
+		al1.add("Naveen");
+		LinkedList l1=new LinkedList(al1);
+		l1.add(100);
+		l1.add(250);
+		System.out.println(l1);
+	}
+
+}
+
+=================================
+vector:  
+stack
+hashset
+treeset
+map
+hasmap
+treemap
+hashtable
+Queue and Dequeue
+
+
+Vector:
+1. It is legacy class implemented with List interface.
+2. It has been implemented in java 10 under java.util package.
+3. The underline datastructure of vector is growable array or "resizable" array.
+4.  All the legacy class are synchronized.
+
+Properties of Vector legacy class:
+----------------------------------
+1.  Vector is an index based data structure.
+2.  vector can store different data type hence it is heterogenous in nature.
+3.  We can store duplicate values.
+4.  We can store multiple null values.
+5.  Vector follows the insertion order.
+6.  Vector does not follows the sorting order.
+7.  Vector legacy class are synchronized.
+
+Program:
+package Collection;
+import java.util.*;
+
+public class Vectorelegacy {
+ public static void main(String[] args) {
+	Vector v=new Vector();
+	v.add(10);
+	v.add("Naveen");
+	v.add(10);
+	v.add(null);
+	v.add(null);
+	v.add(null);
+	v.add(null);
+	v.add(null);
+	v.add(null);
+    v.add('g');
+    v.add(null);
+	v.add(null);
+    v.setElementAt("hello", 3);
+    System.out.println(v);
+    System.out.println(v.capacity());
+	
+}
+}
+
+
+------------->
+Stack:
+Stack is launched in jdk 10 version.  Stack is the child class of Vector class.
+
+Features:
+1.  It would follow the Last in First Out(LIFO).
+2.  It will have some different method as compared to others.
+example push, pop, peek, search, isempty, remove etc
+3.  It can be implemented on the basis of arrays etc.
+
+package Collection;
+import java.util.*;
+
+public class StackLegacy {
+	public static void main(String[] args) {
+		Stack s1=new Stack();
+		s1.push("Naveen");
+		s1.push(20);
+		s1.push(25);
+		System.out.println(s1);
+		s1.add(1, 5);
+		System.out.println(s1);
+		s1.pop();
+		System.out.println(s1);
+		System.out.println(s1.peek());
+		System.out.println(s1.search("Naveen"));
+	
+	}
+
+}
+=====================================
+
+Hashset:It is class which is implement from the Set interface. It is present in the java.util package.
+
+Hashset underline data structure in "Hashtable"
+
+Hashset is backed up by "Map".
+
+Hashset is introduced in JDK1.2 version.
+
+PROPERTIES OF HASHSET:
+----------------------
+1.  It is not an index based data structure.  They can be stored according their "hashcode" value.
+2.  Hashset does not store any duplicate element.
+3.  Hashset cant store multiple null values.
+4.  Hashset does not follow the insertion order.
+5.  Hashset does not follow sorting order.
+6.  Hashset are non-synchronized data structure.
+7.  Hashset are heterogeneous in nature.
+
+Program:
+package Collection;
+import java.util.*;
+
+public class Hashsetcollection {
+public static void main(String[] args) {
+	
+	HashSet hs=new HashSet();
+	hs.add(10);
+	hs.add("Naveen");
+	hs.add(1);
+	hs.add(45);
+	hs.add(45);
+	hs.add(40.5);
+	hs.add(null);
+	hs.add(5);
+	ArrayList al=new ArrayList(hs);
+	al.add(10);
+	al.add("JAVA");
+	al.add(null);
+	//hs.add(4, 45);  No indexing concept.
+	System.out.println(al);
+	
+}
+}
+
+
+TreeSet:
+----------
+It is the direct implementation of Sorted set and set interface.
+
+It was introduced in java 1.2 version
+
+It is baselined with "Balanced Tree".
+
+Properties:
+-----------
+1.  It is not an index based data structure.
+2.  It does not follow the indexing order.
+3.  It follow the sorting order.
+4.  it can not have duplicate values.
+5.  It will not have null values
+
+Program:
+package Collection;
+import java.util.*;
+
+public class TreesetStringothers {
+public static void main(String[] args) {
+	TreeSet ts1=new TreeSet();
+	ts1.add("Naveen");
+	ts1.add("Rahul");
+	ts1.add("Adarash");
+	ts1.add("Naveen1");
+	System.out.println(ts1);
+	ts1.remove("Rahul");
+	System.out.println(ts1);
+	
+}
+}
+	
+==================================================
+MAP:
+----
+HashMap:
+HashMap is one of the implemented class of Map interface. We can get this from java.util pacakge
+
+It came in jdk 1.2 version.
+
+IT is underlined with datastrucure with hashtable.
+
+Properties:
+----------
+1.  HashMap stores the values in the key-value pair.
+key   value
+101--->Deepak---->Entry
+102--->Rahul----->Entry
+103-->Deepak
+
+2. In hashmap, keys should be always unique but values can be duplicate.
+
+3.  HashMap contains maximum of one null values in key, but it can store multiple null values in the values.
+
+4.  It can store heterogeneous element.
+
+5.  HashMap does not follow the sorting and insertion order.
+
+6.  It is non-synchronized in nature.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Topics to be discussed:
+Exception handling:  Done
+Multithreading: done
+Collection:  4-5
+Array:  Done
+Scanner:  Done
+String:  Done
+String buffer:  Done
+string builder handling:  Done
+Enum: Done
+encapsulation
+jdk vs jre: Done
+package:  Done
+filemismatch:  Done
+utillityclasses:  Done
+Inputstream:Done
+Wrapper class:
+Lambda exp: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Java module
+core java
+adv
+frame
+
+Database
+Oracle at 430 pm
+By Vijay kumar online and offline
+
+UI
+HTML/CSS/JS
+Mr. Shiva kumar
+At 930 am online and offline
+
+
+==========================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Framework:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
